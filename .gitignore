@@ -1,0 +1,8 @@
+# Godot cache
+.godot/
+
+# Large video files
+assets/sprites/Videos/
+*.mp4
+*.mov
+*.avi
