@@ -1,0 +1,377 @@
+[gd_scene load_steps=11 format=3 uid="uid://main"]
+
+[ext_resource type="Script" path="res://scripts/main.gd" id="1_main"]
+[ext_resource type="VideoStream" path="res://assets/sprites/Videos/Logo/logo_intro.ogv" id="8_logo"]
+[ext_resource type="Texture2D" path="res://assets/sprites/ui/menu_logo_t.png" id="9_menulogo"]
+[ext_resource type="Script" path="res://scripts/background_scroller.gd" id="2_bgscroll"]
+[ext_resource type="Script" path="res://scripts/obstacle_spawner.gd" id="3_obs"]
+[ext_resource type="Script" path="res://scripts/gem_spawner.gd" id="4_gem"]
+[ext_resource type="Script" path="res://scripts/gate_spawner.gd" id="5_gate"]
+[ext_resource type="PackedScene" path="res://scenes/player.tscn" id="6_player"]
+[ext_resource type="Script" path="res://scripts/perspective_floor.gd" id="7_floor"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_main")
+
+[node name="BackgroundScroller" type="Node2D" parent="."]
+script = ExtResource("2_bgscroll")
+
+[node name="Layer0" type="ColorRect" parent="BackgroundScroller"]
+color = Color(0.04, 0.04, 0.12, 1)
+size = Vector2(1080, 1920)
+position = Vector2(0, 0)
+
+[node name="Layer0B" type="ColorRect" parent="BackgroundScroller"]
+color = Color(0.04, 0.04, 0.12, 1)
+size = Vector2(1080, 1920)
+position = Vector2(0, -1920)
+
+[node name="Layer1" type="Node2D" parent="BackgroundScroller"]
+
+[node name="Layer2" type="Node2D" parent="BackgroundScroller"]
+
+[node name="PerspectiveFloor" type="Node2D" parent="."]
+script = ExtResource("7_floor")
+
+[node name="Player" parent="." instance=ExtResource("6_player")]
+position = Vector2(540, 1500)
+
+[node name="ObstacleSpawner" type="Node2D" parent="."]
+script = ExtResource("3_obs")
+
+[node name="GemSpawner" type="Node2D" parent="."]
+script = ExtResource("4_gem")
+
+[node name="GateSpawner" type="Node2D" parent="."]
+script = ExtResource("5_gate")
+
+[node name="HUD" type="CanvasLayer" parent="."]
+visible = false
+
+[node name="ScoreLabel" type="Label" parent="HUD"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -200
+offset_right = 200
+offset_top = 40
+offset_bottom = 100
+text = "0"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 56
+theme_override_colors/font_color = Color(0, 1, 0.8, 1)
+
+[node name="GemsLabel" type="Label" parent="HUD"]
+offset_left = 30
+offset_top = 40
+offset_right = 300
+offset_bottom = 90
+text = "GEMS: 0"
+theme_override_font_sizes/font_size = 36
+theme_override_colors/font_color = Color(1, 0.4, 0.8, 1)
+
+[node name="PowerupLabel" type="Label" parent="HUD"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -200
+offset_right = 200
+offset_top = 110
+offset_bottom = 160
+text = ""
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 40
+theme_override_colors/font_color = Color(0, 0.8, 1, 1)
+
+[node name="ComboLabel" type="Label" parent="HUD"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -300
+offset_right = 300
+offset_top = 180
+offset_bottom = 240
+text = ""
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 52
+theme_override_colors/font_color = Color(1, 0.4, 0.8, 1)
+
+[node name="PauseButton" type="Button" parent="HUD"]
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -130
+offset_top = 40
+offset_right = -40
+offset_bottom = 130
+text = "II"
+theme_override_font_sizes/font_size = 44
+
+[node name="MenuLayer" type="CanvasLayer" parent="."]
+
+[node name="BG" type="ColorRect" parent="MenuLayer"]
+color = Color(0, 0, 0, 0.8)
+size = Vector2(1080, 1920)
+
+[node name="DailyLabel" type="Label" parent="MenuLayer"]
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -460
+offset_right = 460
+offset_top = 250
+offset_bottom = 330
+text = ""
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 40
+theme_override_colors/font_color = Color(1, 0.86, 0.24, 1)
+
+[node name="LogoImage" type="TextureRect" parent="MenuLayer"]
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -450
+offset_right = 450
+offset_top = 420
+offset_bottom = 838
+texture = ExtResource("9_menulogo")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="SubLabel" type="Label" parent="MenuLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -300
+offset_right = 300
+offset_top = 900
+offset_bottom = 960
+text = "endless runner"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 40
+theme_override_colors/font_color = Color(1, 0.4, 0.8, 1)
+
+[node name="BestLabel" type="Label" parent="MenuLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -300
+offset_right = 300
+offset_top = 980
+offset_bottom = 1040
+text = "BEST: 0"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 36
+theme_override_colors/font_color = Color(1, 0.86, 0.24, 1)
+
+[node name="StartButton" type="Button" parent="MenuLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -200
+offset_right = 200
+offset_top = 1080
+offset_bottom = 1180
+text = "TAP TO RUN"
+theme_override_font_sizes/font_size = 48
+
+[node name="SoundButton" type="Button" parent="MenuLayer"]
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -260
+offset_top = 40
+offset_right = -40
+offset_bottom = 120
+text = "SOUND: ON"
+theme_override_font_sizes/font_size = 30
+
+[node name="MissionsHeader" type="Label" parent="MenuLayer"]
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -300
+offset_right = 300
+offset_top = 1280
+offset_bottom = 1330
+text = "— MISSIONS —"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 38
+theme_override_colors/font_color = Color(0, 1, 0.8, 1)
+
+[node name="MissionsLabel" type="Label" parent="MenuLayer"]
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -460
+offset_right = 460
+offset_top = 1340
+offset_bottom = 1620
+text = ""
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 30
+theme_override_colors/font_color = Color(0.85, 0.9, 1, 1)
+
+[node name="DeathLayer" type="CanvasLayer" parent="."]
+visible = false
+
+[node name="BG" type="ColorRect" parent="DeathLayer"]
+color = Color(0, 0, 0, 0.85)
+size = Vector2(1080, 1920)
+
+[node name="GameOverLabel" type="Label" parent="DeathLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -300
+offset_right = 300
+offset_top = 550
+offset_bottom = 660
+text = "GAME OVER"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 80
+theme_override_colors/font_color = Color(1, 0.13, 0.33, 1)
+
+[node name="ScoreLabel" type="Label" parent="DeathLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -300
+offset_right = 300
+offset_top = 700
+offset_bottom = 780
+text = "SCORE: 0"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 56
+theme_override_colors/font_color = Color(0, 1, 0.8, 1)
+
+[node name="GemsLabel" type="Label" parent="DeathLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -300
+offset_right = 300
+offset_top = 790
+offset_bottom = 860
+text = "GEMS: 0"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 44
+theme_override_colors/font_color = Color(1, 0.4, 0.8, 1)
+
+[node name="BestLabel" type="Label" parent="DeathLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -300
+offset_right = 300
+offset_top = 870
+offset_bottom = 930
+text = "BEST: 0"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 40
+theme_override_colors/font_color = Color(1, 0.86, 0.24, 1)
+
+[node name="ReviveButton" type="Button" parent="DeathLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -260
+offset_right = 260
+offset_top = 950
+offset_bottom = 1050
+text = "REVIVE  ◈40"
+theme_override_font_sizes/font_size = 46
+theme_override_colors/font_color = Color(0.4, 1, 0.5, 1)
+
+[node name="RetryButton" type="Button" parent="DeathLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -200
+offset_right = 200
+offset_top = 1090
+offset_bottom = 1190
+text = "RUN AGAIN"
+theme_override_font_sizes/font_size = 48
+
+[node name="IntroLayer" type="CanvasLayer" parent="."]
+layer = 10
+
+[node name="BG" type="ColorRect" parent="IntroLayer"]
+color = Color(0, 0, 0, 1)
+size = Vector2(1080, 1920)
+
+[node name="IntroVideo" type="VideoStreamPlayer" parent="IntroLayer"]
+anchor_left = 0.5
+anchor_right = 0.5
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_left = -520
+offset_right = 520
+offset_top = -288
+offset_bottom = 288
+stream = ExtResource("8_logo")
+expand = true
+
+[node name="SkipLabel" type="Label" parent="IntroLayer"]
+anchor_left = 0.5
+anchor_right = 0.5
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = -300
+offset_right = 300
+offset_top = -160
+offset_bottom = -100
+text = "tap to skip"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 32
+theme_override_colors/font_color = Color(0.6, 0.6, 0.7, 1)
+
+[node name="PauseLayer" type="CanvasLayer" parent="."]
+process_mode = 3
+layer = 8
+visible = false
+
+[node name="BG" type="ColorRect" parent="PauseLayer"]
+color = Color(0, 0, 0, 0.8)
+size = Vector2(1080, 1920)
+
+[node name="PausedLabel" type="Label" parent="PauseLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -300
+offset_right = 300
+offset_top = 560
+offset_bottom = 680
+text = "PAUSED"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 90
+theme_override_colors/font_color = Color(0, 1, 0.8, 1)
+
+[node name="ResumeButton" type="Button" parent="PauseLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -220
+offset_right = 220
+offset_top = 800
+offset_bottom = 900
+text = "RESUME"
+theme_override_font_sizes/font_size = 52
+
+[node name="RestartButton" type="Button" parent="PauseLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -220
+offset_right = 220
+offset_top = 930
+offset_bottom = 1030
+text = "RESTART"
+theme_override_font_sizes/font_size = 52
+
+[node name="MenuButton" type="Button" parent="PauseLayer"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -220
+offset_right = 220
+offset_top = 1060
+offset_bottom = 1160
+text = "MENU"
+theme_override_font_sizes/font_size = 52

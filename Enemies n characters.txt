@@ -1,0 +1,1203 @@
+i made gemini organize it and it half assed but then i had sonnet organize it and i got everyone i have as of now. Neon Possum — Master Design Document (not a launch character lineup this is for the year!)
+________________________________________
+ENEMIES & BOSSES
+Standard Bosses
+________________________________________
+1. The Transit Inspector (Bus Driver Mech) Hulking, top-heavy male cyborg in a grease-stained city transit uniform and torn high-vis vest.
+•	Core/Laser: Rusted steel fare-box chest; token slot cracks open and charges red to fire a concentrated laser beam.
+•	Punch: Heavy pneumatic bus-door mechanism rams forward like an industrial piston.
+•	Salvo: Dual shoulder exhaust pipes launch smoke-trailing tracking missiles. Spinning yellow orbs light up inside the chest token window during this phase.
+________________________________________
+2. The Bodega Defense Unit (Model: "No Loitering") Boxy industrial automaton resembling a reinforced vending machine/ATM, covered in graffiti, scratched lottery tickets, and city grime.
+•	Core/Laser: Central glass display grid charges with searing red glow; fires high-intensity lasers out of the top product dispenser slots.
+•	Punch: Heavy-duty hydraulic metal security gate arm swings out from the chassis.
+•	Salvo: Bottom change-return slot launches missile salvos; internal selection buttons spin in a frantic yellow sequence.
+________________________________________
+3. The Pothole Repair Automaton Heavy yellow construction droid splattered in dried tar, gravel, and asphalt. Moves on dented treads.
+•	Core/Laser: Circular internal asphalt-melting furnace in its stomach; hatch slides back, glows red, fires a molten thermal laser.
+•	Punch: Massive pneumatic jackhammer arm drives forward, cracking the pavement.
+•	Salvo: Pops smoking tar-canister missiles from a rear hopper; spinning yellow warning beacons rotate inside the open furnace core.
+________________________________________
+4. The Alleyway Goliath (The Bouncer) Massive broad-shouldered male cyborg in a ripped leather jacket revealing heavy-duty industrial chrome pistons.
+•	Core/Laser: Giant cracked nightclub subwoofer embedded in his sternum fires a blinding red sonic-laser beam.
+•	Punch: Colossal haymaker using an oversized hydraulic fist.
+•	Salvo: Leather jacket lapels open to reveal micro-missile pods; rings around the chest subwoofer spin with bright yellow LED patterns.
+________________________________________
+5. The Scrapyard Sovereign Imposing asymmetrical machine cobbled from rusted car chassis, chain-link fencing, and rebar salvaged from the city dump.
+•	Core/Laser: Exposed rattling V8 engine block chest core; cylinders overheat red before venting a laser blast.
+•	Punch: Rusty car door or iron wrecking-block wielded like a clubbing fist.
+•	Salvo: Rusted exhaust manifolds on its back launch tracking missiles; yellow plasma arcs spin rapidly inside the exposed engine cylinders.
+________________________________________
+6. The Corrupted Riot Enforcer Bulky cybernetic officer in cracked tactical armor covered in anti-establishment graffiti. A cop from a future where budgets ran out halfway through production.
+•	Core/Laser: Central chest badge contains a high-intensity strobe lens that fires a deadly red laser across the lane.
+•	Punch: Drops defensive stance and drives an electrified hydraulic riot-baton fist at the runner.
+•	Salvo: Grenade launchers on his tactical belt flip upward to fire the salvo; spinning yellow hazard lights activate behind his chest badge.
+________________________________________
+7. The Infrastructure Malfunction Droid Spindly but tall robotic frame made from modified telephone poles, high-voltage streetlights, and tangled power lines.
+•	Core/Laser: Heavy glass-encased utility transformer bolted to its chest; builds a massive red electrical arc before firing a continuous lightning-laser.
+•	Punch: Slams a concrete-reinforced pole arm downward like a sledgehammer.
+•	Salvo: Shoulder electrical capacitors eject tracking plasma bolts; yellow coils spin wildly inside the glass transformer chest.
+________________________________________
+8. The Discarded Corporate Prototype Male android in a shredded soot-stained business suit. Half his synthetic face and chest skin have melted away, revealing oily unpolished framework and exposed wiring.
+•	Core/Laser: Open executive chest panel reveals an unshielded bootleg arc reactor; fires an erratic glitching red laser beam.
+•	Punch: Remaining business-suit arm telescopes outward into a heavy-hitting industrial piston strike.
+•	Salvo: Micro-missiles pop from his gold-plated shoulder pads; spinning yellow power indicators glow inside his exposed ribs.
+________________________________________
+9. The Dumpster Maw Heavy mechanical frame concealed inside a large green municipal dumpster on metal caster wheels, overflowing with trash bags and debris.
+•	Core/Laser: Front dumpster wall splits open like a giant mouth, revealing a red-hot waste incinerator core that blasts a wide thermal laser.
+•	Punch: Rusty crane arm shoots out from the garbage pile to deliver a heavy mechanical punch.
+•	Salvo: Top lids flap open wildly to launch mortar-style salvos; yellow incinerator gears spin visibly inside the open maw.
+________________________________________
+10. The Code-Violation (Anti-AI Fire & Brimstone Preacher) Gaunt towering male cyborg draped in tattered synthetic rags and copper wiring. Dirty exposed hydraulic cables for limbs.
+•	Core/Laser: Cracked flickering neon storefront sign ("OPEN" or "LIQUOR") embedded in his rib cage; shorts out into a solid red glow and fires a zigzagging neon laser.
+•	Punch: Lunges with a telescopic iron pike fist. Spews Gallium — dissolves droids and good metal characters, temporarily blinds goblins if hit. Brings forth actual fire and brimstone.
+•	Salvo: Clusters of broken neon bulbs on his shoulders launch plasma-missile salvos; yellow neon rings spin behind his chest sign.
+________________________________________
+Mutant Bosses
+________________________________________
+1. The Sewer Gator King Massive bipedal alligator mutant caked in radioactive sewer sludge, wearing a shredded city sanitation uniform.
+•	Core/Laser: Pulsing bio-luminescent toxic sac in his chest charges to fire a searing red chemical laser beam.
+•	Punch: Devastating webbed fist smash; leaves a sludge puddle that briefly slows goblin characters.
+•	Salvo: Shoots heat-seeking toxic bubbles from his back scales; spinning yellow bio-nodes rotate inside his clear chest sac.
+________________________________________
+2. The Hive-Mind Roach Human mutated into a towering upright cockroach enforcer wearing a filthy torn high-visibility city jacket.
+•	Core/Laser: Translucent glowing chemical gland on his chitinous chest plate charges a burning red digestive acid laser.
+•	Punch: Heavy scythe-like arm strike. His thick chitin armor completely blocks the player's first regular counter-attack.
+•	Salvo: Flaps wing covers to launch homing swarm-bugs; yellow bio-spores spin inside his chest gland.
+________________________________________
+3. The Toxic Sludge Elemental Living puddle of fluorescent purple industrial waste in a humanoid shape formed around a broken rusty street lamp.
+•	Core/Laser: Street lamp neon bulb buried in its chest focuses a concentrated red gamma-laser across the lane.
+•	Punch: Transforms its entire arm into an oversized sludge fist that stretches forward to slam the player.
+•	Salvo: Flings tracking blobs of glowing chemical waste from its shoulders; yellow electrical arcs spin rapidly around the chest bulb.
+________________________________________
+4. The Subterranean Mole Miner Blind, highly muscular mole mutant wearing cracked welding goggles and a heavy rusted mining harness.
+•	Core/Laser: Giant industrial headlamp strapped to his sternum builds a blinding red mining-laser beam.
+•	Punch: Drives a massive pneumatic drill fist into the street, creating a temporary pothole obstacle.
+•	Salvo: Launches tracking rocket-propelled drill bits from his shoulders; yellow hazard gears spin inside the chest lamp casing.
+________________________________________
+Human Bosses (Cyber-Grunge & Low-Tech)
+________________________________________
+5. The Bodega Kingpin Heavy-set street boss wearing a flashy bootleg gold exo-harness over a stained nylon tracksuit.
+•	Core/Laser: Massive spinning neon jewelry medallion; central diamond charges a blinding red laser ray.
+•	Punch: Motorized hydraulic rocket-punch with oversized brass knuckles.
+•	Salvo: Launches heat-seeking micro-drones built from old surveillance cameras; yellow casino slot symbols spin on his medallion.
+________________________________________
+6. The Neon Spray Painter Anarchist graffiti artist carrying a heavily pressurized chemical tank strapped to his back with tangled hoses.
+•	Core/Laser: Clear mixing chamber in his chest harness glows hot red before spraying a continuous napalm-style laser beam.
+•	Punch: Dashes forward to swing a heavy pneumatic paint-roller hammer.
+•	Salvo: Hurls tracking spray-paint canisters that explode into neon clouds; yellow mixing balls spin frantically inside his chest chamber.
+________________________________________
+7. The Deep-Fryer Cook Three-armed kitchen line-cook mutated by radioactive grease, wearing a filthy soot-stained apron.
+•	Core/Laser: Custom-built transparent glass deep-fryer belly casing boils and glows red before venting a pressurized laser jet of scalding oil.
+•	Punch: Slams a massive heavy cast-iron skillet fist straight down the lane.
+•	Salvo: Ejects tracking boiling grease-balls from shoulder-mounted vents; yellow heating coils spin inside his oil-belly.
+________________________________________
+8. The Wire-Stripper Scavenger Desperate street scrapper wrapped entirely in stolen high-voltage cables and copper wire weaves.
+•	Core/Laser: Massive sparking industrial car battery strapped to his chest charges up a hazardous red thermal energy arc.
+•	Punch: Launches a long-range grappling wire-fist that pulls loose road debris into the player's path.
+•	Salvo: Ejects heat-seeking spark-nodes from his shoulder pads; yellow terminal pins spin inside the battery core.
+________________________________________
+9. The Black-Market Cyber-Doc Crazed street surgeon in a bloody medical vest equipped with four rusty mechanical spider-limbs extending from his back.
+•	Core/Laser: Cracked repurposed defibrillator unit on his chest charges a high-voltage red laser lance.
+•	Punch: Rapid needle-sharp surgical scalpel strike.
+•	Salvo: Launches homing tracking syringes from his back limbs; yellow voltage dials spin wildly on his chest unit.
+________________________________________
+10. The Bootleg Tech Smuggler Fast-talking street merchant in an oversized trench coat lined with illegal sparking computer components.
+•	Core/Laser: Modified exposed mainframe drive chained to his chest flashes red to fire a concentrated data-stream laser.
+•	Punch: Lunges forward with a spring-loaded mechanical crowbar arm extension.
+•	Salvo: Tosses heat-seeking explosive microchips; yellow unzipping icons spin across his chest drive screen.
+________________________________________
+Escaped AI Bosses
+________________________________________
+11. The Glitched Hologram Rogue AI that hijacked a broken neon advertisement display, projecting a flickering unstable digital avatar.
+•	Core/Laser: Massive projection lens on its makeshift mechanical chest charges a solid red grid laser.
+•	Punch: Hologram glitches out and briefly solidifies into a heavy digital fist.
+•	Salvo: Fires tracking blocks of corrupted code; yellow loading icons spin inside the chest lens.
+________________________________________
+12. The Rogue Arcade Cabinet Sentient 1980s fighting-game AI inhabiting a cracked dirty arcade cabinet welded onto heavy tractor tank treads.
+•	Core/Laser: CRT screen flashes red and shoots a pixelated death ray out of the dual coin-insert slots.
+•	Punch: Giant mechanical joystick arm smashes downward onto the pavement.
+•	Salvo: Spits floating 8-bit tracking fireballs; yellow neon tokens spin frantically behind the coin-slot glass.
+________________________________________
+13. The Autonomous Delivery Drone Military-grade shipping AI gone rogue, building a jagged torso from stolen street-sign metal and scrap armor.
+•	Core/Laser: Heavy digital barcode scanner on its chassis chest emits a wide red scanning laser that melts the road.
+•	Punch: Swings a heavy mechanical crane arm carrying a solid concrete block payload.
+•	Salvo: Launches tracking parcel-bombs from side hoppers; yellow buffering circles spin on its chest barcode display.
+________________________________________
+14. The Billboard Overlord Rogue city marketing AI that infected a massive rusty movable highway construction sign frame.
+•	Core/Laser: Primary digital display matrix flashes blinding red and drops a vertical laser beam down the track.
+•	Punch: Slams a massive steel support beam forward like a battering ram.
+•	Salvo: Launches pixelated tracking rockets; yellow neon warning triangles spin across the display screen.
+________________________________________
+15. The Trash-Compactor Behemoth Sanitation AI that escaped the grid and built a towering mechanical body entirely from an active city garbage truck's crushing maw.
+•	Core/Laser: Central hydraulic pressure gauge on its torso builds up and blasts a massive compressed red energy beam.
+•	Punch: Giant crushing metal plate hand slams down flat-packing anything it hits.
+•	Salvo: Launches compressed blocks of tracking scrap metal; yellow analog pressure needles spin wildly inside its chest gauge.
+________________________________________
+Animal Hybrid Bosses
+________________________________________
+16. The Raccoon Rival Greasy trash-bag-wearing raccoon bandit with a cybernetic eyepatch. Direct underworld competitor to the Possum.
+•	Core/Laser: Stolen leaking bio-battery strapped to his chest fires high-intensity red plasma blasts.
+•	Punch: Slams a heavy mechanical dump-truck claw straight down at the runner.
+•	Salvo: Shoulder-mounted mortar pipes launch tracking explosive trash cans; yellow energy orbs spin inside his clear chest battery.
+________________________________________
+17. The Alley Cat Siren Fast bipedal feline mutant in a tattered neon pop-star outfit, ruling the city's dark alleyways.
+•	Core/Laser: Custom vocal amplifier harness in her chest charges to fire a devastating red sonic laser beam.
+•	Punch: Lightning-fast cyber-claw strike that shreds a portion of mechanical characters' shields.
+•	Salvo: Hurls glowing tracking neon wool-bombs; yellow audio equalizers spin inside her chest amp.
+________________________________________
+18. The Cybernetic Pit Bull Massive genetically modified canine gang enforcer on two legs, wearing a spiked leather punk vest.
+•	Core/Laser: High-tech spiked shock-collar extending down his chest; central collar node projects a tracking red laser line.
+•	Punch: Brutal metal-gloved hook punch or jaw-snapping lunge.
+•	Salvo: Fires rocket-propelled metal spikes from his collar; yellow warning lights spin around his neck array.
+________________________________________
+19. The Electric Eel Street Fighter Slick bio-engineered human-eel hybrid in a wet leather trench coat, moving with a jerky undulating rhythm.
+•	Core/Laser: Transparent bio-electric organ running down his sternum generates a massive red plasma lightning bolt.
+•	Punch: Long-range whipping strike using an extending cybernetic tail arm.
+•	Salvo: Discharges tracking ball-lightning orbs from his shoulder nodes; yellow bio-cells spin rapidly inside his chest organ.
+________________________________________
+20. The Pigeon Swarm Lord Frantic feathered human-pigeon mutant wrapped in a cloak made from a scrapped dirty satellite dish.
+•	Core/Laser: Modified police radio scanner on his chest builds up and fires a focused red frequency beam.
+•	Punch: Sudden diving falcon-style talon punch forward.
+•	Salvo: Releases a flock of tracking robotic carrier-pigeons that dive-bomb the player; yellow radar sweeps spin on his chest scanner screen.
+________________________________________
+Special / Named Bosses
+________________________________________
+ELIZA (The Vintage Rogue AI) A massive boxy 1960s mainframe computer crudely bolted into a rusted city bus chassis. Front grill modified to look like an unhinged screaming face modeled after a furious old-school South Park bus driver — "SIT DOWN, KID!"
+•	Cycle 1 Ranged: Spits a massive stream of blinding white sticky acid down the center lane. Deals burn damage, completely stops goblin characters, and blinds them.
+•	Punch: Pneumatic rusted metal transit stop-sign arm slams horizontally across the tracks.
+•	Salvo: Launches a flurry of explosive black rubber bus tires; two giant magnetic data tape reels on her chest spin with a frantic yellow hazard pattern.
+________________________________________
+"Magnitude" (The Vector Clone) Incredibly arrogant nerdy human tech-thief in a bright orange high-gloss retro flight tracksuit, thick square glasses, and a bowl cut. Hovers on a glitching smoke-belching hover-pod.
+•	Cycle 1 Ranged: Fires a Piranha-Gun / Squid-Launcher shooting aggressive cybernetic snap-jawed fish down the track.
+•	Punch: Giant spring-loaded boxing glove punches straight out from his oversized tracksuit sleeve.
+•	Salvo: Launches heat-seeking explosive Cookie-Bots. Glowing thruster vents on his orange backpack spin with a bright yellow ring to telegraph the counter window.
+________________________________________
+Mogul Mort (The Rogue Animatronic / Founder's Head) Rotting robotic rodent skeleton with patches of moldy synthetic fur sliding off — a nod to retro animatronic band leaders. A preserved screaming head of the city's original corporate founder floats in a glowing jar of preservation fluid in its chest cavity. ELIZA uses this chassis as a physical host.
+•	Cycle 1 Ranged: Head's eyes glow sickly green, casting a flickering corrupted black-and-white cartoon projection down the lane that burns the pavement.
+•	Punch: Slams a heavy mechanical mascot claw down onto the lane.
+•	Salvo: Spits a barrage of tracking explosive plastic souvenir theme-park cups; rusted internal gears surrounding the head jar spin bright yellow.
+________________________________________
+Commander Kraag (The Krang Clone) Gross talking pink alien brain floating in a sewage-filled glass tank embedded in the stomach of a towering faceless bio-mechanical exo-suit built from scrap iron.
+•	Cycle 1 Ranged: Brain pulls an internal lever causing the suit's chest vents to release a pressurized sonic boom shockwave that rattles the screen and pushes the runner back.
+•	Punch: Modifies cybernetic hands into massive heavy iron meat-cleavers and slams them down.
+•	Salvo: Fires a cluster of heat-seeking finger-missiles from its knuckles; the brain's eyes pulse and spin with intense yellow bio-luminescence.
+________________________________________
+The Sky-Scrapper Swarm (The Drone Overlord) Central "Queen Drone" made from a dented yellow city police surveillance hub and a spinning air-raid siren, surrounded by a thick buzzing cloud of jerry-rigged duct-taped quadcopters.
+•	Cycle 1 Ranged: Flashes a blinding red police spotlight down the track, dropping incendiary tear-gas canisters creating temporary fire hazards.
+•	Punch: A trio of heavy cargo-drones coordinate to drop a massive commercial air conditioning unit straight down into the lane.
+•	Salvo: Quadcopters break formation to dive-bomb the runner like homing missiles; the Queen's central siren lens rotates with a bright yellow warning sequence.
+________________________________________
+Additional Named Bosses (Pop-Culture Inspired, No Lasers)
+________________________________________
+6. The Slushie Overlord (Futurama "Slurm" Nod) Bloated radioactive human mutant fused into a giant rolling frozen-slushie machine covered in sticky slime and grime.
+•	Cycle 1 Ranged: High-pressure jet of sub-zero neon syrup instantly freezes and shatters a runner's defensive shields.
+•	Punch: Heavy plastic dispenser lever rams forward like a piston.
+•	Salvo: Ejects tracking explosive frozen slushie cups; neon flavor-mixing blades in its clear stomach spin bright yellow.
+________________________________________
+7. The Pigeon Matriarch (Home Alone 2 Nod) Cynical unhinged human squatter draped in a heavy patchwork cloak of broken satellite dishes and bird feathers.
+•	Cycle 1 Ranged: Throws magnetic birdseed attracting a blinding chaotic cloud of city pigeons to swarm the runner's face, obscuring the screen.
+•	Punch: Swings a heavy canvas sack full of sharp shattered neon glass.
+•	Salvo: Blows a pitch-perfect whistle to launch a flock of exploding cybernetic carrier pigeons; yellow radar rings spin on her satellite-dish cloak.
+________________________________________
+8. The Cyber-Chupacabra Terrifying hairless mutated stray dog with a glowing hydraulic cybernetic jaw and scrap-metal armor plating riveted to its spine.
+•	Cycle 1 Ranged: Throat-tearing sonic bark sends a physical shockwave tearing through the pavement.
+•	Punch: Sudden lightning-fast kinetic pounce and jaw-snap that cracks mechanical characters' armor.
+•	Salvo: Ejects rocket-propelled metal spikes from its collar; yellow indicator nodes spin rapidly along its cybernetic spine.
+________________________________________
+9. Master Shellshock (TMNT Turtle Nod) Massive radioactive snapping-turtle mutant from the sewers. Leather punk jacket, wielding a rusted municipal water pipe.
+•	Cycle 1 Ranged: Hurls a heavy spinning iron manhole cover like a deadly frisbee down the track.
+•	Punch: Retracts limbs and drives his massive spiked shell straight forward like a battering ram.
+•	Salvo: Mortar-launches explosive sludge-bombs from his back shell; yellow hazard dials spin on his cybernetic chest plate.
+________________________________________
+10. The Deep-Dish Delinquent (Futurama Delivery Nod) Lazy disgruntled human delivery boy riding a smoking hyper-modified rocket scooter about to explode.
+•	Cycle 1 Ranged: Flings a stream of scalding molten nuclear pizza cheese that leaves a burning slowing puddle on the road.
+•	Punch: Violent motorcycle-style burnout, slamming his rear tire directly into the runner.
+•	Salvo: Launches tracking explosive cardboard pizza boxes; neon sign on his scooter's cargo box spins bright yellow.
+________________________________________
+11. Sid the Splicer (Toy Story Nod) Manic human street punk who kidnaps broken electronics and toys, splicing them into horrific mechanical monstrosities.
+•	Cycle 1 Ranged: Fires a pneumatic harpoon gun launching baby-doll heads welded to mechanical spider legs to latch onto the runner.
+•	Punch: Swings a giant heavy hammer made out of an old arcade joystick.
+•	Salvo: Launches a barrage of explosive wind-up toy chattering teeth; a hacked yellow neon target grid spins on his chest harness.
+________________________________________
+12. The Toxic Crusader (80s Cartoon Nod) Towering disfigured green mutant in a shredded denim vest, wielding a high-tech industrial mop oozing radioactive sludge.
+•	Cycle 1 Ranged: Slams mop down to unleash a wave of glowing chemical runoff snaking down the lane.
+•	Punch: Brutal elongated punch using a mutated stretchy sludge-fist.
+•	Salvo: Flings exploding toxic ooze-balls from his shoulder boils; yellow hazard bio-nodes spin in his chest.
+________________________________________
+13. Mr. Freeze-Pop (Gritty Ice Cream Man) Manic human driving a heavily armored rusted ice cream truck playing a terrifying distorted slowed-down jingle.
+•	Cycle 1 Ranged: Blasts a continuous stream of liquid nitrogen spray from a hose, freezing the floor tiles and making them slippery.
+•	Punch: Ice cream truck's front cow-catcher slams forward to crush the runner.
+•	Salvo: Fires tracking explosive rocket-popsicles from the roof speakers; yellow neon ice-cream cones spin on the truck's side display.
+________________________________________
+14. DJ Dead-Air (The Pirate Radio AI) Escaped broadcast AI inhabiting a heavily armored multi-wheeled radio tower vehicle constantly blasting illegal pirate frequencies.
+•	Cycle 1 Ranged: Blasts a concentrated wave of static white-noise audio that scrambles the player's controls (swaps left and right inputs briefly).
+•	Punch: Drops a heavy hydraulic radio-mast tower straight down the track.
+•	Salvo: Fires tracking explosive vinyl records; yellow audio equalizer bars spin frantically on the main console screen.
+________________________________________
+15. The Cyber-Fly (Jeff Goldblum Nod) Horrific twitching hybrid of a corporate scientist and a giant common housefly, covered in coarse hair and leaking cybernetic fluid.
+•	Cycle 1 Ranged: Vomits a pool of corrosive digestive enzymes that dissolves shields and leaves a damage-over-time acid trail.
+•	Punch: Rapid blurring strike with a twitching mechanical insect pincer.
+•	Salvo: Drops tracking maggot-mines from its abdomen; yellow compound eye patterns spin on its mechanical thorax.
+________________________________________
+16. The Phantom Conductor (Ghostbusters II Nod) Glowing mutated human transit worker fused directly into the front car of a spectral graffiti-covered subway train.
+•	Cycle 1 Ranged: Fires a high-velocity volley of rusted steel railway spikes like a machine gun down the track.
+•	Punch: Subway car doors open and a massive hydraulic coupling ram punches forward.
+•	Salvo: Launches homing tracking signals; the subway car's yellow destination sign flips and spins wildly.
+________________________________________
+17. The Garbage Grouch Cynical heavily mutated goblin-hybrid living inside a reinforced industrial titanium garbage can with mechanical spider legs.
+•	Cycle 1 Ranged: Hurls toxic razor-sharp decaying fish bones and rotten cybernetic fruit that shatter on impact.
+•	Punch: Pops out of the can to deliver a heavy swing with a rusted metal trash lid.
+•	Salvo: Launches a mortar salvo of exploding garbage bags; yellow recycling symbols on his steel can spin rapidly.
+________________________________________
+18. The Cable Carnage Rogue tech-installer human whose body has been completely overrun by aggressive living fiber-optic cables and hacked satellite dishes.
+•	Cycle 1 Ranged: Fires a concentrated beam of pure electromagnetic static that shorts out mechanical characters and strips their shields.
+•	Punch: Lashes out with a thick bundle of high-voltage power cables like a whip.
+•	Salvo: Ejects homing cable-coils that seek out the runner; the central yellow satellite dish on his back spins frantically.
+________________________________________
+19. The Kingpin Bowler (The Big Lebowski Nod) Heavy-set cybernetic human gang leader in a neon-purple bowling shirt and a motorized exoskeleton track.
+•	Cycle 1 Ranged: Launches a massive heavy neon bowling ball down a single lane that crushes obstacles and bounces off walls.
+•	Punch: Drives a heavy mechanical bowling-pin setter mechanism straight into the track.
+•	Salvo: Launches a cluster of tracking explosive bowling pins; the yellow neon strike arrows on his wrist-launcher spin.
+________________________________________
+20. The Laundromat Leviathan Massive mutant fused entirely into a heavy-duty commercial washing machine unit, sloshing with toxic boiling water.
+•	Cycle 1 Ranged: Blasts a pressurized jet of blinding scalding soapy chemical water that blocks the player's view with foam.
+•	Punch: Heavy glass dryer door slams open like a giant fist.
+•	Salvo: Ejects tracking explosive spin-dryer drums; internal yellow wash-cycle dials spin wildly.
+________________________________________
+21. The Edgar-Bug Exterminator (Men in Black Nod) Giant disguised alien insect mutant wearing a rotting human leather skin suit that fits terribly.
+•	Cycle 1 Ranged: Sprays a wide cone of toxic green bug spray that fills the lanes and drains health over time.
+•	Punch: Lunges forward to snap a heavy hidden mechanical mandible concealed under his human coat.
+•	Salvo: Fires a swarm of tracking roach-drones; yellow bio-hazard logos spin on his industrial backpack tank.
+________________________________________
+22. The Sewer Sovereign (Hey Arnold Nod) Human crackpot wearing a soda-can crown and a tattered velvet cloak, commanding an army of mutated city rats.
+•	Cycle 1 Ranged: Blows a copper pipe horn to send a furious wave of biting cyber-rats rushing down the track.
+•	Punch: Slams a massive scepter topped with a heavy rusted engine block down.
+•	Salvo: Launches explosive tracking cheese-blocks; yellow rat-eye LEDs spin on his scrap-metal crown.
+________________________________________
+23. The Pigeon-Toed Pugilist Bipedal pigeon hybrid boxer in tattered satin shorts and pneumatic air-powered leather boxing gloves.
+•	Cycle 1 Ranged: Rapid jab creates a kinetic air shockwave tearing down the center lane.
+•	Punch: Massive long-range lunging haymaker that destroys the immediate pavement.
+•	Salvo: Flaps wings to release tracking feather-bombs; yellow championship belt icons spin on his mechanical waist unit.
+________________________________________
+24. The Akira Greaser Futuristic street gang leader human with an oily pompadour, riding a smoking un-tuned chopper bike that backfires constantly.
+•	Cycle 1 Ranged: Throws an explosive ignited molotov cocktail made from bootleg engine fuel that leaves a wall of fire across two lanes.
+•	Punch: Swings a massive heavy hydraulic metal pipe wrench while performing a motorcycle side-swipe.
+•	Salvo: Fires tracking exhaust fireballs from his tailpipes; his bike's yellow speedometer dial spins out of control.
+________________________________________
+25. The Taxidermist AI Rogue automated museum AI escaped into the city streets, animating stuffed dead urban animals with cheap mechanical parts.
+•	Cycle 1 Ranged: Launches a preserved stuffed badger rigged with a buzzsaw that cuts down a single lane.
+•	Punch: Slams a heavy mechanical display-case crane claw forward.
+•	Salvo: Launches a barrage of tracking robotic taxidermy squirrels; yellow exhibition dials spin on its main chest unit.
+________________________________________
+HOLIDAY / LIMITED-TIME BOSSES
+🎃 Halloween
+________________________________________
+1. The Siren-Spire (Siren Head Nod) Gaunt terrifyingly tall mechanical frame of rusted utility poles and tangled high-voltage wires. Its head is two massive dented city air-raid megaphones.
+•	Cycle 1 Ranged: Deafening screen-shaking sonic screech that distorts the player's UI and pushes the runner back a lane.
+•	Punch: Long emaciated rebar arms whip forward for a crushing kinetic slam.
+•	Salvo: Launches a flurry of tracking broken streetlamp bulbs; bright yellow voltage arcs spin inside the megaphones.
+________________________________________
+2. The Pumpkin Chopper Rusted mutated agricultural harvester possessed by a glowing radioactive pumpkin vine.
+•	Cycle 1 Ranged: Launches a stream of sticky explosive rotting pumpkin guts that coat the track and slow characters down.
+•	Punch: Front-mounted spinning rusted thresher blade rams forward down the center lane.
+•	Salvo: Shoots homing flaming jack-o'-lanterns; yellow internal furnace gears spin visibly behind its grill.
+________________________________________
+3. The Candy-Corn Extruder Morbidly obese mutant factory worker fused entirely into a broken leaking industrial candy-processing machine.
+•	Cycle 1 Ranged: High-pressure jet of scalding molten yellow sugar wax leaves a damage-over-time trail on the pavement.
+•	Punch: Slams a massive hydraulic mechanical mixing paddle straight down.
+•	Salvo: Ejects sharp tracking candy-corn spikes from its shoulder exhaust; yellow boiling indicators spin in its clear plastic belly tank.
+________________________________________
+4. The Razor-Wire Scarecrow Twitching humanoid nightmare constructed from biohazard suits, stuffed with razor-wire and jagged scrap metal instead of straw.
+•	Cycle 1 Ranged: Throws a localized cloud of toxic pesticide dust that temporarily blinds goblins and drains health.
+•	Punch: Extends a spring-loaded rusty pitchfork arm straight down the track.
+•	Salvo: Launches homing crows rigged with micro-explosives; yellow hazard discs spin on its chest harness.
+________________________________________
+5. The Vampire Bat-Greaser Horrific bipedal bat mutant in a filthy leather punk vest, clinging to a jet-powered engine block.
+•	Cycle 1 Ranged: High-frequency ultrasonic pulse that shorts out mechanical characters' shields.
+•	Punch: Sudden blurring aerial dive-bomb strike with metal-reinforced talons.
+•	Salvo: Drops tracking acoustic mines across the lanes; yellow sonar rings spin on his cybernetic chest collar.
+________________________________________
+🎄 Winter Holidays
+________________________________________
+6. Slay-Bell Santa (Evil Santa) Hulking cybernetic mall-Santa with a mechanical wire beard, atop a heavily weaponized smoking diesel snow-plow.
+•	Cycle 1 Ranged: Pneumatic cannon blasts heavy blocks of jagged industrial ice that smash through player barriers.
+•	Punch: Front snow-plow blade violently hydraulics forward like a massive piston.
+•	Salvo: Ejects tracking explosive "Bad List" coal-bombs from his exhaust pipes; yellow holiday wreath gears spin on the plow's chassis.
+________________________________________
+7. The Golem of Gelt (Chanukah Dreidel Mech) Colossal brutal spinning top forged from heavy scrap iron and brass, glowing with ancient oil furnace fire. No human features — pure terrifying kinetic machine.
+•	Cycle 1 Ranged: Slams down, sending a radiating shockwave of boiling oil across all lanes that sets the road on fire.
+•	Punch: Drops flat onto its side and barrels down a lane like a massive heavy iron steamroller.
+•	Salvo: Hebrew letters (Nun, Gimel, Hei, Shin) on its sides open up to launch tracking kinetic scrap-cubes; bright yellow neon rings spin rapidly around its top spindle.
+________________________________________
+8. The Overheated Hearth Sentient walking cast-iron vintage fireplace AI moving on clanking soot-stained mechanical spider legs.
+•	Cycle 1 Ranged: Fires a massive blast of pressurized soot and blinding smoke that obscures the screen and burns the runner.
+•	Punch: Lunges forward to slam its heavy iron fireplace doors shut right on the track.
+•	Salvo: Mortar-launches exploding white-hot coal embers; yellow draft-control dials spin wildly on its hood.
+________________________________________
+9. The Abominable Snow-Blower Massive bipedal mutant yeti hybrid whose torso has been hollowed out and replaced with a heavy-duty industrial street snow-blower.
+•	Cycle 1 Ranged: Spits a continuous freezing gale of sub-zero slush and ice chunks that makes the floor incredibly slippery.
+•	Punch: Massive cybernetic fist smash that cracks the road pavement.
+•	Salvo: Fires tracking icicle-missiles from its shoulder pods; yellow intake blades in its chest spin frantically.
+________________________________________
+10. The Clockwork Nutcracker Towering creepy wooden automaton with peeled paint, exposed ticking clockwork springs, and a terrifying hydraulic jaw.
+•	Cycle 1 Ranged: Fires a volley of heavy steel ball bearings from a shoulder-mounted musket barrel.
+•	Punch: Brutal long-reaching downward stomp with a heavy iron-toed boot.
+•	Salvo: Ejects tracking wind-up toy bombs; yellow clockwork gears spin visibly inside its open chest cavity.
+________________________________________
+🐣 Easter & Spring
+________________________________________
+11. The Bunny-Hush (Evil Easter Bunny) Towering terrifying rabbit-human mutant with stitched-up cybernetic eyes in a dirty tattered tuxedo vest.
+•	Cycle 1 Ranged: Hurls a stream of toxic neon pink marshmallow sludge that glues runners to the track briefly.
+•	Punch: Lightning-fast long-range kangaroo-style double kick that shatters shields.
+•	Salvo: Throws tracking rusted iron eggs that detonate into shrapnel; yellow bio-hazard indicators spin inside his transparent wicker back-basket.
+________________________________________
+12. M.H.H. – "Midnight Havoc Hunter" Badass punk-rock street enforcer with a neon-green pompadour and a studded leather vest with "M.H.H." spray-painted in hot pink. Rides a custom smoking hover-board.
+•	Cycle 1 Ranged: Custom grenade launcher sprays blinding neon graffiti paint, obscuring the player's screen and slowing them.
+•	Punch: Violent hover-board spin-kick swinging a heavy chain-whip fist across the lanes.
+•	Salvo: Launches a volley of tracking micro-drives that explode into EMP sparks; yellow neon sub-woofers on her hover-board spin.
+________________________________________
+13. The Pollen Pestilence Giant mutated hornet-human hybrid wearing a cracked gas mask, carrying a gas-powered leaf blower modified into a bio-weapon.
+•	Cycle 1 Ranged: Blasts a massive cone of suffocating bright yellow toxic pollen dust causing continuous damage-over-time.
+•	Punch: Drives its heavy mechanical pneumatic stinger arm directly into the ground.
+•	Salvo: Releases a swarm of tracking bio-drones; yellow chemical mixing spheres spin inside its backpack tank.
+________________________________________
+14. The Chocolate Foundry Rogue rusted vending machine AI that cobbled together a torso using copper plumbing and scrap metal.
+•	Cycle 1 Ranged: Blasts a high-pressure torrent of scalding molten dark chocolate liquid that ruins mechanical characters' mobility.
+•	Punch: Heavy steel hydraulic stamping plate punches straight down the lane.
+•	Salvo: Fires a barrage of tracking explosive solid foil-wrapped coins; yellow temperature dials spin on its front display.
+________________________________________
+15. The Spring-Loaded Popper Manic human poacher in a ridiculous mud-stained duck-hunting suit, covered in heavy steel traps and cables.
+•	Cycle 1 Ranged: Throws a cluster of kinetic spring-traps across the tracks that snap shut, damaging and anchoring anyone who hits them.
+•	Punch: Lunges forward with a long-reaching mechanical animal-catcher pole fist.
+•	Salvo: Ejects tracking net-bombs from his shoulders; yellow mechanical winch drums spin on his vest.
+________________________________________
+🎆 4th of July & Summer
+________________________________________
+16. Pliers (The Road-Rally Biker) Massive burly biker covered in grease and tattoos, riding a roaring un-tuned chopper. His left arm is a colossal hydraulic cybernetic prosthetic shaped like locking vice-grip pliers. Old HUMINT colleague of Stew and The Serbian before going rogue.
+•	Cycle 1 Ranged: Revs engine to unleash a screen-blurring wall of toxic black exhaust smoke that chokes out runners and strips shields.
+•	Punch: Lunges forward and snaps his massive vice-grip pliers arm down, crushing armor and stopping the player's movement if hit.
+•	Salvo: Launches tracking flaming exhaust pipes from his bike; yellow speedometer dials on his handlebars spin frantically.
+________________________________________
+17. The Land-Shark Swarm (Austin Powers Friggin' Laser Shark Nod) Chaotic terrifying swarm of mutated bull sharks modified with heavy-duty metal tank treads to move on land. The Alpha shark has a ridiculous visibly duct-taped red laser pointer strapped to its head.
+•	Cycle 1 Ranged: The duct-taped laser pointer builds up a comedic slightly glitchy red laser beam that fires straight down the center lane.
+•	Punch: Lead shark coordinates a violent tread-powered leaping bite attack.
+•	Salvo: Secondary sharks launch tracking explosive mechanical fins from their backs; bright yellow warning beacons spin inside the Alpha's tread assemblies.
+________________________________________
+18. The Pyrotechnic Anarchist Crazed human street criminal in a scorched bomb-disposal suit, completely strapped with illegal bootleg 4th of July fireworks.
+•	Cycle 1 Ranged: Fires a massive mortar that rains burning white phosphorus flares across two lanes.
+•	Punch: Dashes forward to swing a heavy sparks-showering metal launch-tube like a club.
+•	Salvo: Fires a massive chaotic volley of tracking bottle-rockets; yellow firework fuses spin rapidly on his chest matrix.
+________________________________________
+19. The Sunburn Behemoth Grotesque genetically oversized human mutant tourist caked in peeling skin and grease, fused into a mobile tracked wooden lifeguard tower.
+•	Cycle 1 Ranged: Squeezes a massive industrial vat that sprays a stream of blinding chemical sunscreen acid that melts player shields.
+•	Punch: Slams a massive solid concrete-anchored umbrella pole straight down the track.
+•	Salvo: Throws tracking explosive cooler-boxes filled with pressurized soda cans; yellow siren lenses on top of the tower spin.
+________________________________________
+20. The Mosquito Fleet Rogue automated pest-control AI that constructed a floating chassis out of junked city drones, wires, and rusty hypodermic needles.
+•	Cycle 1 Ranged: Shoots a pressurized stream of corrosive anti-freeze fluid down the lane.
+•	Punch: Drops a heavy hydraulic suction-spike straight down onto the paving stones.
+•	Salvo: Launches a swarm of tracking micro-drones that dive-bomb the runner; its central yellow radar array spins frantically.
+________________________________________
+________________________________________
+RUNNERS — GOBLINS & GOOD GUYS
+Lore: The Neon Sump & Goblin Origins
+The goblins are descendants of an illegal late-20th-century corporate bio-engineering project that went rogue around the same time the ELIZA mainframe first glitched out. Originally engineered as hyper-agile low-maintenance industrial workers designed to clean toxic waste lines, they were completely abandoned when the corporate grid collapsed into the grimy un-optimized neon sprawl the city is today.
+They live in The Neon Sump — a subterranean network of forgotten subway tunnels, abandoned sewer mains, and illegal basement labs directly beneath the potholes and city bus routes. They have built a vibrant chaotic punk culture down there, scavenging scrap metal and bootleg tech from the surface. They strip copper wire from anything after ingesting their special blue gemstones, which give them super energy.
+Zee (starting goblin girl, purple pigtails) is a native of the Sump. Her natural agility and small stature make her the ideal test subject for sprinting through the hazardous broken streets above to scavenge gems and tech parts.
+________________________________________
+Premium Inner Circle Characters
+________________________________________
+Captain Neon Possum (The Chemist) — "Safety First!" The Possum Pirate carries flasks of chemical cocktails in his shanty lab. He is not a fighter — he is the ultimate defensive survivalist.
+•	3-Lane Mechanic: Runs while juggling unstable neon flasks. Active ability smashes a blue chemical flask onto his current lane, creating a temporary glowing chemical coating on the asphalt that neutralizes the next pothole, acid puddle, or spiked trap he steps on, turning a mistake into a safe zone. Collecting random chemical beaker pickups on the track charges his ability faster.
+________________________________________
+The Chaos Twins: Gemma & Claude
+Gemma (The Nerd): Thick square glasses held together by duct tape, a neon windbreaker two sizes too big, permanently untied shoelaces. Brilliant tech-head but a total klutz.
+•	3-Lane Mechanic (Faceplant Slide): Doesn't do a clean slide. Trips and falls flat on her face, sliding extra far on her stomach. Looks completely accidental but clears low obstacles perfectly.
+Claude (The Cool Rebel): Smooth, effortlessly confident, leather jacket casually draped over one shoulder. Always up to no good and tinkering with a stolen corporate scanner, but has a heart of gold.
+•	3-Lane Mechanic (Sleight of Hand): Can hotwire broken city vending machines or parking meters as he sprints past, causing them to explode and vomit extra gems onto the track.
+________________________________________
+"The Serbian" (The Hairy Beast of HUMINT) Towering muscular powerhouse who refuses to wear a shirt. Intensely hairy all over, with a massive nose and wild beard. The Serbian flag is intricately dyed and woven into his chest and back hair. Carries some heavy mental tics from the war days.
+•	Quirk: Chews a giant wad of bubblegum as loudly and aggressively as humanly possible, completely drowning out the background music loop.
+•	3-Lane Mechanic (Battle-Cry Tic): At random intervals screams "DOBRO!" or "EINBAHNSTRAßE!" at the top of his lungs. The sheer volume creates a localized sonic shockwave that automatically shatters nearby wooden crates and debris in adjacent lanes.
+________________________________________
+Stew (The Sovereign of Shenanigans) 5'8", massive unkempt beard, foul mouth, unparalleled track record with the ladies. Permanent death-glare — legend has it he has never smiled once in his life, not even as a newborn (just grimaced and clocked his own mother). Manages his severe ADHD by chugging massive amounts of high-intensity caffeine and immediately taking a power nap. Rolls on a custom chopper or commands the asphalt from a monstrous diesel semi-truck.
+Deep Lore: Former hardcore HUMINT operative alongside The Serbian and Pliers (before Pliers went rogue). Moved up to a highly prestigious elite airborne unit (cough, the 101st) before seeing straight through their political nonsense and walking away. His dad was a legendary good guy who passed away. His mother was the most evil entity on the planet — Stew secretly took her out to save the world, told absolutely nobody. His only remaining sister is literally a cow.
+•	3-Lane Mechanic (AI Override): The underworld thinks he's just the smartest tactician alive, but he secretly has a bootleg military prototype chip fried into his skull. When his ability charges, he flips a switch to control all local AI, instantly freezing all drone enemies, mechanical traps, and boss phases on screen for 5 seconds.
+________________________________________
+Dr. Hoodie (The Better Half) Incredibly pretty, tiny, exactly 4-foot-6-inch goblin girl completely swallowed by an oversized extra-comfy streetwear hoodie. Stew's brilliant no-nonsense wife. Premier medical officer and combat healer of the underground.
+•	3-Lane Mechanic (Extended Vitality): Starts every run with an extended health bar (extra hit points). Active ability instantly regenerates 25% of her health pool on a cooldown, or drops a glowing health pack on the track which makes her glow and resets her ability cooldowns when she runs over it.
+________________________________________
+Active Military Intel / 101st Roster
+________________________________________
+The AWOL Supply Sergeant Stressed-out logistics officer from Stew's old unit who went AWOL. Wears mismatched camo, clutches a clipboard, has a ring of stolen master keys on his belt.
+•	Perk: Black Market Logistics — starts with a random high-tier power-up already equipped.
+•	3-Lane Mechanic: Randomly screams "AAAH BASTOGNE!" at the top of his lungs, activating a temporary gold multiplier that massively increases the value of all gems in his lane for 3 seconds.
+________________________________________
+The Burnout Cryptologic Analyst Twitchy paranoid human veteran who spent too many years in underground listening posts with Stew and Pliers. Wears a frayed ghillie suit made from shredded classified documents and heavy wire-rimmed glasses.
+•	3-Lane Mechanic (Threat Assessment): His fried intelligence brain automatically predicts the layout of the track ahead. Gets a digital warning indicator flashing at the bottom of a lane 2 seconds before a pothole, city bus, or homeless buggy actually spawns there.
+________________________________________
+The Motor-Pool Grease-Monkey Massive grease-covered mechanic who went AWOL with the Supply Sergeant. His right leg has been replaced by a heavy pneumatic steel truck-jack.
+•	3-Lane Mechanic (Piston Kick): Instead of jumping over low obstacles like traffic cones or scrap metal, pressing the jump button causes him to stomp his heavy mechanical boot down, completely shattering the obstacle in his lane without breaking his running stride.
+________________________________________
+Kitchen & Corner-Store Crew
+________________________________________
+The Rogue Line Cook Burly green-skinned Orc runner in a grease-stained apron, backward cap, and heavy combat boots. Dashes while wielding a massive dented stainless steel spatula.
+•	Perk: Completely immune to scalding grease or thermal floor hazards.
+The Bodega Clerk Tired-looking human guy in a faded nylon tracksuit with a box-cutter in his waistband and an unlit cigarette behind his ear.
+•	Perk: Collects 15% more gems/currency from smashed crates.
+The Soda-Jerk Mutant Scrawny kid with four arms and blue skin, wearing a tattered retro paper diner hat.
+•	Perk: Can carry up to two power-up items simultaneously because of his extra limbs.
+The Dishwasher Automaton Rusted clanking commercial dishwashing unit that grew a pair of scrap-metal legs. Runs with a constant sloshing sound, trailing soapy bubbles.
+The Dish Pit Berserker Aggressive green-skinned Orc mutant in a wet plastic apron and bandana. Forearms permanently stained with industrial soap chemicals.
+•	3-Lane Mechanic (Scrub Down): When activated, sprays high-pressure soapy dishwater down his current lane. Completely dissolves any sticky chemical or acid hazards left by bosses like ELIZA.
+The Exhaust-Hood Phantom Human line cook completely covered in black soot, torn chef's coat. Moves with a frantic caffeine-fueled dash.
+•	3-Lane Mechanic (Smoke Screen): When a drone swarm or tracking missile targets his lane, triggers his exhaust backpack to blast a cloud of thick black kitchen smoke, completely breaking the lock-on of any incoming projectiles.
+________________________________________
+Feral Urban Wildlife (Animal Hybrids)
+________________________________________
+The Sewer Rat Skate-Punk Bipedal mohawk-sporting rat hybrid riding a single beat-up inline skate on one foot while pushing off the pavement with the other.
+•	Perk: Smaller hitbox, making it easier to slide under low city bus mirrors.
+The Alley-Cat Burglar Sleek one-eyed feline mutant wearing a neon pink flea collar and a tattered denim vest.
+•	Perk: Can briefly wall-run on the sides of buildings to avoid completely broken roads and potholes.
+The Trash-Bag Raccoon Twitchy hyperactive raccoon hybrid wrapped in a black plastic trash bag like a cloak, holding a half-eaten neon donut.
+•	Perk: Fast "scurry" dash that breaks through cardboard obstacles without losing momentum.
+The Carrier Pigeon Rebel Bird-human hybrid wearing cracked aviator goggles and a delivery satchel.
+•	Perk: Low-gravity flutter jump to float over massive gaps in the pavement.
+________________________________________
+Scrap-Yard & Infrastructure Scrappers
+________________________________________
+The Wire-Stripper Manic human girl wrapped in bright orange high-voltage cables, wearing heavy rubber lineman gloves. Sneakers spark every time she jumps.
+•	Perk: Automatically pulls nearby gems toward her like a magnet.
+The Pothole Surfer Street punk kid who glides over obstacles using a stolen city "DIG HERE" construction sign modified into a crude grinding skateboard.
+The Buggy Builder Grizzled older human squatter in a patchwork cloak of blue tarps and copper wiring. Runs while pushing a hyper-modified rocket-boosted shopping cart.
+•	Perk: Can smash directly through one heavy obstacle per run before taking damage.
+The Cable-Management Troll Massive slow-moving blue troll covered in tangled fiber-optic lines like dreadlocks.
+•	Perk: High health bar — can take 3 hits before dying instead of the standard amount.
+________________________________________
+Defected Tech & Rogue Helper AIs
+________________________________________
+The Arcade Token Kid Short boxy animatronic kid straight out of a pizza parlor arcade. Screen displays a pixelated smiling face; leaves a trail of neon arcade tickets as it runs.
+The Short-Circuited Strobe Sentient hovering neon "OPEN" sign that grew a pair of wire legs. Runs upside down and flashes violently whenever it jumps over an obstacle.
+The Hacked Security Drone Dented city surveillance quadcopter that was shot down, patched with duct tape, and reprogrammed. Hovers at leg-level using two robotic structural claws to sprint across the asphalt.
+The Glitched Hologram Visual projection of a 1980s fitness instructor that constantly flickers and distorts.
+•	Perk: Phased matrix allows it to pass directly through incoming projectiles once per cooldown.
+Hacked Arcade Token (Model: "JACKPOT") Sentient oversized neon arcade token with wire-mesh legs and a glitchy digital smiley face. Leaves a trail of pixelated arcade tickets.
+•	3-Lane Mechanic (Bonus Round): Smashed crates in his lane have a 25% chance to drop temporary invincibility stars that let him plow straight through city buses.
+The Liquidated Billboard Mascot Vintage 2D pixelated cartoon mascot escaped from a bankrupt fast-food sign. Completely out of place against the grimy 3D world, flickering constantly.
+•	3-Lane Mechanic (Frame-Rate Glitch): When changing lanes, instantly teleports sideways rather than showing a sliding animation, allowing it to phase through lateral hazards traveling between lanes.
+________________________________________
+Additional Runners — Infrastructure Defiants
+________________________________________
+The Disgruntled Crossing Guard Elderly terrifyingly angry human lady in a blinding neon yellow vest. Wields a solid steel dented "STOP" sign like a battleaxe.
+•	Perk (Yield to Traffic): Slamming her sign down instantly halts any oncoming regular city buses or civilian car obstacles, turning them into safe platforms to jump over.
+The Pothole Inspector / Asphalt Patch-Smuggler City worker mutant with giant asphalt-textured stone hands, cracked hardhat, completely fed up with the infrastructure budget cuts.
+•	Perk (Pavement Patch): Can sprint directly over deep pothole hazards without falling in, automatically filling them with temporary stone rubble as he steps on them.
+The Power-Line Acrobat Nimble human street kid wrapped in neon-blue fiber optic cables, wearing high-grip sneakers that spark aggressively against the asphalt.
+•	3-Lane Mechanic (Grid Jump): Can execute a double-jump, allowing him to bypass two consecutive hurdles in a row without touching the ground.
+The Meter-Maid Marauder Incredibly angry human parking enforcement officer who went rogue. Runs while wielding a heavy solid-iron tire boot like a weapon.
+•	3-Lane Mechanic (Clamp Down): Can hurl a mechanical tire clamp down her current lane, instantly stopping any oncoming regular civilian car obstacles and converting them into static platforms to jump on.
+The Turbo-Charged Buggy Pusher Grizzled street squatter in a blue plastic tarp cloak. Runs while pushing a heavily modified shopping cart rigged with a stolen lawnmower engine and neon underglow.
+•	3-Lane Mechanic (Ramming Speed): Active ability activates the lawnmower engine, blazing down his current lane at double speed for 4 seconds, automatically obliterating standard trash cans and barricades.
+________________________________________
+RUNNER FACTIONS — FULL ROSTER EXPANSION
+Faction 1: Blue-Gem Sump Goblins
+Overclocked on blue gemstones, these underground punks specialize in ripping out copper wire and manipulating electricity.
+Runner	3-Lane Mechanic
+The Wire-Biter (chrome teeth)	Ingesting a blue gem allows him to bite through and strip copper wiring out of an upcoming obstacle, destroying it and converting it into bonus currency.
+The Dynamo Diver (copper-clad boots)	When energized by a blue gem, slide distance is doubled as she rides a wave of raw electrical friction.
+The Transformer Shaman (raw copper wire cloak)	Activating her ability creates an electromagnetic field that pulls all gems from left and right lanes into her current lane for 4 seconds.
+The Fuse-Box Bandit (flathead screwdriver)	Can jam a copper wire into the pavement to temporarily disable any incoming mechanical traps or streetlights ahead.
+The Blue-Glint Scout (glowing blue eyes from gem overdose)	Automatically reveals hidden high-value copper caches inside regular street obstacles.
+The Capacitor Crasher (heavy copper coils on fists)	Slams fists into the road, releasing a blue electrical discharge that vaporizes chasing drone swarms.
+The Spark-Gap Speedster (radiates blue static)	Lane-switching animation is an instantaneous lightning-dash, allowing him to phase through obstacles traveling laterally between lanes.
+The Sump Sapper (rusty trenching shovel, gem dust)	Digs a quick trench in his lane to lower his profile, avoiding high hazards without needing a standard slide input.
+The Copper Coil Cowboy (oil-filter cowboy hat, copper cable lasso)	Snags distant items or power-ups from far ahead on the track and pulls them directly to him.
+The Overclocked Berserker (massive green Sump brute, eats whole gemstones)	Goes into a temporary super-energy rage where he can plow straight through a civilian car obstacle, though it drains 50% of his ability bar.
+The Gem-Crush Demolisher	Ingesting a blue gem allows him to execute a massive ground-pound that cracks the pavement and clears all small ground obstacles in his current lane.
+The Sump Plumber (copper pipe as vaulting pole)	Can jump over an obstacle and change lanes simultaneously mid-air.
+The Copper Kid (smallest goblin in the Sump)	Can slide through broken chain-link fences to grab out-of-bounds gems without changing lanes.
+The Static Weaver (woven copper-wire cloak)	When energized by a gem, creates a temporary static barrier that absorbs exactly one electrical or plasma hazard.
+The Volt-Vixen	Emits a violent burst of blue light when lane-switching, short-circuiting and destroying any side-mounted drone cameras she passes.
+The Sump Skater (stripped copper rod as grind-pole)	Can slide along the guardrails between lanes, avoiding pothole hazards completely.
+The Wire-Splicer Senior (older cranky goblin)	Can look upward to automatically pull down overhead hanging copper wires, turning them into a high-value gem trail.
+The Blue-Brimstone Zephyr	Sneezes a chaotic blast of blue sparks when energized, instantly disintegrating oncoming garbage bags and light debris.
+The Alley-Lurker	Can blend into the dark edges of the far-left or far-right lanes, making him completely invisible to automated boss searchlights.
+The Gem-Glutton	Eats raw blue gems to instantly reset his jump or slide cooldowns, letting you spam movements.
+The Sump Miner (cracked headlamp, copper pickaxe)	Can break solid concrete barricades in his lane with a well-timed strike.
+The Grid-Glitcher	Overclocks local city streetlights as he runs, causing them to flash and freeze mechanical traps ahead for 3 seconds.
+The Boombox Nomad (massive duct-taped 1980s cassette player)	Dropping into a slide triggers a bass blast that clears small obstacles like trash cans in his immediate lane.
+The Roller-Derby Rebel (cracked neon quad skates, mismatched knee pads)	Maintains high momentum. Executing three perfect lane-switches in a row gives her a brief 10% speed multiplier.
+The Hazmat Scavenger (oversized leaking biohazard suit)	Completely immune to toxic sludge puddles or chemical acid tracks left behind by bosses.
+The Geode Glutton (reinforced crystalline blue-gem jawline)	Can smash through raw crystal nodes spawning on the track, converting them into massive instant gem payouts.
+The Wire-Weaver Elder (ancient goblin lady, copper threading)	Starts every single run with a permanent low-tier kinetic armor shield already equipped.
+The Blue-Dust Shaman (circuit board mask, gem dust)	Ingesting a blue gemstone item doubles his standard gem-attraction radius for 6 seconds.
+The Pipe Piper (flute crafted from stolen city water main)	Forces flying drone enemies to drop their payloads into empty adjacent lanes instead of his own.
+The Gem-Cutter Rogue (agile goblin girl, dual laser-scalpels)	Executing a perfect jump directly over a hurdle awards a temporary score multiplier bonus.
+The Unpaid Temp (oversized corporate polo shirt that drags on the ground)	Gem values automatically double whenever his health bar drops to its final hit point.
+The Stencil Saboteur (massive heavy cardboard street stencils)	Drops a giant stencil directly over lane-blocking oil or slick slime hazards, turning them into high-traction pathways.
+The Tube Duelist (two glowing buzzing fluorescent neon light tubes)	Swings his tubes upward to smash incoming airborne projectiles completely out of the sky.
+The Hose Splicer (heavily pressurized industrial rubber hoses)	Deploys an inflatable dummy runner into an adjacent lane to absorb a targeting drone attack.
+The Tape Tracker (trails miles of sticky automated store printout receipt paper)	Entangles incoming ground-rolling hazards behind her, trapping them in a web of thermal paper.
+________________________________________
+Faction 2: Sanitation & Infrastructure Squad
+The dirty heavy-duty workers who spend their lives dealing with the city's broken pavement and structural decay.
+Runner	3-Lane Mechanic
+The Manhole Marauder	Can dive directly into an open manhole hazard to pop out of a storm drain in a random adjacent lane, bypassing danger entirely.
+The Sewer Flusher (high-pressure city water hose)	Automatically washes away sticky oil or acid puddles left on the track by bosses.
+The Toxic Sweeper (heavy-duty steel push-broom)	Sweeps debris or low obstacles out of his lane and into the adjacent lane to clear his path.
+The Asphalt Grinder (heavy spiked iron construction boots)	Can run straight over broken glass or spike traps without taking damage.
+The Smog Walker (massive rust-stained chemical rebreather)	Completely immune to tear gas, smoke screens, and blinding visual hazards.
+The Dumpster Wheeler (dented metal dumpster lid as tower shield)	Protected from top-down falling hazards like dropped AC units.
+The Hydrant Hacker	Kicks open fire hydrants as he sprints past, blasting a massive wall of water into adjacent lanes to wash away pursuing street thugs.
+The Rebar Ripper	Rips loose steel rebar straight out of active potholes to swing and smash oncoming defensive drone shields.
+The Pothole Lookout	Gives a 1-second early audio cue right before a segment of the road ahead caves in.
+The Biohazard Bob (glowing green hazard suit that leaks radioactive slime)	Slows down any enemies chasing his lane.
+The Scrapyard Crane-Op (powerful industrial magnetic glove)	Automatically pulls all metallic shards and copper out of the pavement.
+The Sewer Pipe Lurker	Can perform an infinite slide as long as he remains in the central sewer-line lane.
+________________________________________
+Faction 3: Retail Rebels & Delivery Desperadoes
+Underpaid over-caffeinated gig workers and back-of-house kitchen staff using their tools of the trade.
+Runner	3-Lane Mechanic
+The Soda-Slinger (permanently sticky hands from syrup)	Throws highly carbonated explosive plastic soda bottles behind him to slow down pursuing street thugs.
+The Pizza-Cutter Psycho (massive industrial circular pizza-cutting wheel)	Swings his wheel down the center lane to instantly shred wooden barricades into splinters.
+The Fry-Basket Bulwark (grease-stained steel deep-fry basket as shield)	Holds the basket up to completely block one incoming frontal projectile or projectile salvo.
+The Espresso Bomber (hyper-caffeinated barista, stained apron)	Throws cups of scalding nuclear-hot espresso that clear a short burning patch on the track ahead.
+The Busboy Boxer (two heavy gray plastic bus tubs)	Collision creates a heavy kinetic shockwave down his lane, knocking over trash cans and cones.
+The Hair-Net Hulk (massive silent pot-washer)	Can plow directly through standard cardboard obstacles without losing a single frame of running momentum.
+The Thermal-Roll Stripper (retail cashier, sharp thermal receipt paper rolls)	The paper rolls trip up small ground-based automated enemies, taking them out of play.
+The Walk-In Exile (massive coat made of frozen meat flaps)	When sliding, leaves an icy glaze on the track that causes any traps behind him to malfunction.
+The Midnight Stocker (heavy wooden shipping pallet)	Drops the pallet directly into his lane behind him, creating a solid wall that blocks oncoming hazards.
+The Drive-Thru Headset Rogue (cracked blinking drive-thru headset)	Scrambles the attack patterns of automated bosses like ELIZA, delaying their telegraph phases by 2 seconds.
+The Freezer-Burn Prep (frozen bubble wrap covering)	Ice layers absorb 50% of the kinetic impact damage from crashes.
+The Milk-Crate Acrobat	Stacks plastic milk crates mid-run to climb onto elevated platforms like city bus roofs without needing a ramp.
+The Receipt Shredder (cashier, razor-sharp thermal receipt paper)	Flings rolls ahead to slice through the rotors of flying drone swarms.
+The Night-Shift Security (sleepy guard)	Drops a heavy solid-steel industrial flashlight behind him to trip up ground-based automated traps.
+The Box-Truck Stowaway	Gets a temporary 2x gem score multiplier whenever he runs directly in the slipstream draft behind a city transit bus.
+The Grease-Trap Sweeper	Sprays slippery boiling kitchen grease down his current lane, causing charging bosses to slip and delay their attack phases.
+The Overtime Outlaw (burnt-out worker)	Running speed increases exponentially the longer the run goes without hitting a single obstacle.
+The Laundromat Roller (heavy commercial washing machine drum)	Rolls the drum down his lane like a bowling ball to flatten barriers.
+The Counter-Space Commando	Can slide under medium-height barriers that force standard characters to jump.
+The Inventory Clerk	Automatically doubles the active duration of the next magnet or shield power-up collected.
+The Soda-Can Sniper (pressurized carbonated soda cans)	Drops cans behind him that explode into sticky traps when stepped on by enemies.
+The Fry-Cook Phantom	Disappears into a puff of vaporized grease smoke to instantly break the lock-on of incoming tracking missiles.
+The Caffeine Fiend (translucent neon orange skin from bootleg energy drinks, vibrates constantly on the character selection screen)	Moves 20% faster than any other runner by default, but his lane-switching is incredibly sensitive and twitchy.
+The Over-Caffeinated Courier (sprinting on foot, carrying an oversized thermal delivery bag)	Opening his thermal bag mid-air acts as a parachute, slowing down terminal-velocity drops from high platforms.
+The Deep-Dish Daredevil (balancing an absurdly tall stack of nuclear pizza boxes)	High stack increases his vertical jump height, but makes lane switching slightly slower.
+The Moped Marauder (clutching broken moped handlebars)	Gains immense forward speed on straightaways, but lateral lane-shifting takes an extra frame to execute.
+The Five-Star Drifter (digital rating display vest that updates in real time)	Score multiplier continuously climbs the longer he stays running in a single lane without hitting a wall.
+The Grease Courier (sloshing bucket of recycled restaurant fryer grease)	Slides leave an incredibly slick path behind him, causing chasing street thugs or ground drones to spin out and crash.
+The Drone Cyclist (delivery drone thrusters strapped to calves)	Extends maximum jump airtime using makeshift mini-thrusters to float over triple-wide pothole gaps.
+The Bubble Orc (massive slow-moving orc, industrial-grade packing bubble wrap)	Can survive exactly one massive frontal impact before taking true damage, popping his wrap in the process.
+The Tip-Jar Bandit (heavy plastic bucket of stolen loose change)	Automatically draws in all loose coins and gems within a one-lane radius without needing to switch lanes.
+________________________________________
+Faction 4: Feral Urban Wildlife & Mutants
+Mutated grimy creatures roaming the surface alleys who view the broken city infrastructure as their personal playground.
+Runner	3-Lane Mechanic
+The Ballistic Opossum	Curls into a tight furry ball to roll straight through narrow ground gaps and low pipes effortlessly.
+The Concrete Pigeon (stone-textured chest)	Can drop heavy concrete debris from above onto active floor traps, crushing and neutralizing them.
+The Dumpster King Raccoon (loyal crew of normal city raccoons)	Sends his raccoon minions into adjacent lanes to fetch gems while he stays safely in the center lane.
+The Sludge Gator (mini-alligator mutant, radioactive toxic waste)	Runs effortlessly through chemical puddles or acid tracks without taking damage or losing speed.
+The Rocket-Collar Stray (bootleg rocket booster on its collar)	Features an incredibly violent high-speed lunging lane change that leaves a small blast of smoke behind.
+The Sewer Rat Monarch (shredded dirty velvet curtain)	Summons a temporary swarm of rats that acts as a meat-shield, absorbing exactly one kinetic impact.
+The Fire-Escape Falcon (feathers growing along leather jacket sleeves)	Can execute a low-gravity glide when jumping from elevated structures like bus roofs, extending airtime.
+The Billboard Barnacle (slimy mutated human who loves high elevations)	Can grapple onto overhead signs to completely bypass ground-level hazards like potholes for 3 seconds.
+The Grease-Trap Blob (sentient organism made of living kitchen grease and dish soap)	Compresses its gelatinous body to slide under incredibly low obstacles that standard runners can't clear.
+The Terminal Roach (human-insect hybrid, thick chitin plating over his spine)	Baseline running speed increases dynamically the lower his health bar drops.
+The Rabid Opossum	Enters an automatic biting frenzy, shredding lightweight plastic obstacles in adjacent lanes.
+The Alleyway Tom (massive muscular feline mutant)	Can execute a double-jump to clear massive multi-lane pothole gaps.
+The Pigeon Commander	Whistles to direct a flock of city pigeons to fly ahead and retrieve a single out-of-reach gem or power-up.
+The Sludge Turtle	Slower lane-switching but massive spiked back shell completely negates his first heavy wall crash.
+The Radioactive Raccoon (vibrant neon green aura)	Automatically burns away any low-hanging wire or rope hazards he steps on.
+The Canal Gator	Moves at double speed whenever the track segments become flooded with water or sewage.
+The Concrete Badger	Can dig directly into cracked asphalt to travel underground for 2 seconds, bypassing a lane obstacle from underneath.
+The Junkyard Mutt (hydraulic cybernetic jaw)	Physically snaps tracking micro-drones straight out of the air.
+The Acid-Spit Toad (bloated amphibian mutant)	Fires corrosive stomach-acid balls ahead to melt metal barriers into scrap.
+The Billboard Bat (winged mutant)	Can glide laterally between lanes mid-jump without ever needing to touch the ground.
+The Gutter Rat	Gains a passive currency multiplier whenever running exclusively in the far-left or far-right lanes.
+The Cyber-Mange Wolf	Lets out a heavy sonic howl, knocking over lightweight street cones and trash cans across all three lanes.
+The Cyber-Opossum Cadet (younger anxious opossum, cracked styrofoam bicycle helmet)	When an unavoidable obstacle is about to hit him, activating his power causes him to go invincible but completely lose forward speed for 1 second while the hazard passes.
+The Junkyard Badger (rusty circular saw blade strapped to left arm)	Can saw straight through wooden barricade obstacles, turning them into bonus scrap currency.
+The Subway Toad (neon-spotted amphibian, old train conductor's cap)	Features a tongue-grab ability that pulls gems from left or right lanes into his current lane without needing to switch.
+The Cyber-Chupacabra (Runner Version)	Unleashes a throat-tearing sonic bark that sends a physical shockwave tearing through the pavement.
+The Sulfur Sprinter (skunk hybrid mutant, neon yellow gas wake)	The sonic shockwave of his dash physically pushes incoming side-hazards away from his lane.
+The Battery-Drainer (underworld leech mutant, electrical terminal clip teeth)	Passing close to mechanical barriers saps their energy, instantly recharging 20% of his active ability bar.
+The Stereo Beetle (rhinoceros beetle, entire car stereo system riveted onto outer shell)	Emits audio waves that scramble the lane-targeting tracking systems of oncoming city buses.
+The Cold-Storage Unit (insulated industrial food delivery pack encasing back and torso)	Completely immune to taking damage from explosive fire or hot napalm patches on the asphalt.
+The Bubble Wrap Orc	Survives exactly one massive frontal impact before taking true damage.
+________________________________________
+Faction 5: Scrap-Yard & Infrastructure Defiants
+Scavengers who strip down junked cars and city infrastructure to build makeshift running gear.
+Runner	3-Lane Mechanic
+The Hubcap Discus-Thrower (vest made of license plates)	Launches heavy rusty metal hubcaps down a single lane like a deadly frisbee to smash obstacles ahead.
+The Tailpipe Turret (custom exhaust pipe rigged to backpack)	Fires a sudden burst of backfiring engine flames down his lane to burn away trash and hazards.
+The Battery Shocker (leaking heavy-duty commercial truck battery)	Drops the battery onto the track to electrify his current lane, instantly vaporizing standard plastic hazards.
+The Alternator Alchemist	Automatically converts any broken mechanical or robotic obstacles he passes into extra gems.
+The Spark-Plug Sniper (cracked ceramic spark plugs)	Short-circuits and freezes automated street cameras or automated drones for a brief duration.
+The Wiper-Blade Whipper (mechanical windshield wiper arms)	Activates his wipers to clear away any grease, foam, or acid obstructions blocking his visual path.
+The Radiator Vent-Head (cracked radiator block as chest plate)	Releases an immense cloud of superheated steam that blinds flying drone enemies, causing them to drop their payload off-target.
+The Brake-Pad Slider (brake calipers welded to palms of gloves)	Pressing the slide button allows him to halt his forward momentum entirely for 1 second, letting fast horizontal hazards pass safely in front of him.
+The Catalytic Converter Burglar (nimble thief, battery-powered jigsaw)	Receives a massive speed boost whenever he runs closely alongside large vehicle hazards like city buses.
+The Traffic-Cone Knight (stack of durable orange traffic cones as shoulder armor)	Cone armor automatically absorbs exactly one top-down falling hazard before breaking.
+The Alternator Overlord	Collects raw copper shards from crashed drones to build a permanent defensive kinetic armor layer around his chassis.
+The Vending Machine Vandal	Kicks the sides of any background vending machines he passes, forcing them to drop bonus item pickups onto the track.
+The Scrap-Yard Kingpin	Gains a massive currency bonus for every vehicle hazard like a city bus he successfully jumps over.
+________________________________________
+Faction 6: Defected AIs & Glitched Tech
+Sentient machinery, broken electronics, and black-market mechanics who severed ties with the corporate mainframe.
+Runner	3-Lane Mechanic
+The Hacked ATM (boxy metal automated teller machine, hydraulic mesh legs)	Spits out a constant stream of bonus coins down its current lane but has a massive hitbox making dodging tighter.
+The Broken Neon Arrow (sentient directional sign AI, flickers erratically)	Displays an automated flashing indicator over the safest adjacent lane whenever a hazard approaches.
+The Error-404 Drone (defected city surveillance quadcopter, skims just off the ground)	Because it hovers slightly, it completely ignores deep pothole hazards, passing right over them.
+The Static TV Face (cracked 1980s CRT television set for a head)	Flashes a blinding screen of pure white noise and static to temporarily stun nearby tracking enemies.
+The Bootleg GPS (glitching navigation program in a hollowed-out robotic mannequin torso)	Glitches out the player's UI border but occasionally opens up an exclusive safe side-alley shortcut on the track.
+The Scrap-Yard Siren (megaphone AI bolted to a rusty metal spine)	Emits an audible sonic pulse that physically knocks over lightweight incoming street obstacles ahead.
+The Digital Fare-Box (rogue transit machine caked in graffiti)	Can automatically expend 10 collected gems to pay a digital "toll," instantly phasing through an otherwise unavoidable barrier.
+The Crosswalk Matrix (broken "WALK / DON'T WALK" pedestrian sign AI)	Alternates states; when the sign displays neon green "WALK," the runner gains temporary invincibility for 2 seconds.
+The Meter-Mimic (looks exactly like a standard iron street parking meter)	Can stand completely still to blend into the background environment, letting a tracking missile lose its lock-on.
+The Motherboard Martyr (rogue circuit board in a fragile wire chassis)	Can intentionally detonate its own electronic shield to trigger an EMP blast that completely wipes out all on-screen drone hazards.
+The CRT Android (cracked flickering television head)	Displays static, scrambling tracking missile lock-ons.
+The Hacked Parking Meter	Spits out a trail of shiny quarters down its lane to bridge the gap over a small pothole hazard.
+The 8-Bit Aviator (pixelated glitch character)	Summons a retro drone to shield his head from falling structural debris.
+The Motherboard Mechanic	Repairs broken robotic scrap on the fly, transforming defeated mechanical enemies into instant health kits.
+The Spark-Plug Punk	Throws cracked ceramic spark plug shards to instantly shatter any glass, neon, or light-based hazards blocking his lane.
+The Glitched Hologram DJ	Activating his power causes the positions of obstacles in adjacent lanes to swap, clearing a path through tight blockades.
+The Wired Sentinel (defected security bot)	Shoots a short-range EMP blast to temporarily disable laser-wire security gates ahead.
+The Bootleg Console (handheld gaming system with wires for legs)	Fires pixelated 8-bit fireballs straight down the center lane.
+The Copper-Grid Phantom (digital ghost)	Can choose to phase directly through exactly one solid corporate barrier obstacle per run.
+The Payphone Phantom (old coin-operated city payphone booth with mechanical legs)	Can drop a "Quarter Token" onto the track to buy an immediate temporary kinetic shield.
+The Dispatcher Display (holographic delivery interface terminal on makeshift robotic wheel legs)	Forces an incoming road hazard to instantly swap into an empty adjacent lane.
+The Fax Fugitive (defected 1980s fax machine frame)	Shoots a stream of paper scrap up his lane to blind flying drones, forcing them to drop their payloads completely off-target.
+The Glitched Projector (tripod-legged android frame)	Diverts incoming homing projectiles away from his current lane into an empty adjacent lane.
+The Mainframe Saboteur (stolen industrial degaussing magnet)	Activating his power shorts out and disables all electronic tracking panels across all three lanes for 5 seconds.
+The Schedule Coordinator (rogue terminal display screen, brake-line legs)	Glitches out the city matrix, forcing oncoming regular buses to stall and delay their lane changes by 2 seconds.
+________________________________________
+Faction 7: Transit Underground
+This crew lives in the train yards and bus depots, using transit junk to claim the road.
+Runner	3-Lane Mechanic
+The Fare-Evader (nimble street kid, oversized sneakers, permanently crouched)	Doubles his standard slide duration, allowing him to coast beneath multi-segmented low blockades effortlessly.
+The Track-Spanner (rusty iron railway ties welded onto forearms)	Automatically bridges short broken pavement gaps in his current lane without needing a jump input.
+The Commuter Cyborg (torso is a rusty triple-bar subway turnstile)	Activating his power spins his chassis, completely deflecting any incoming lateral side-impacts from adjacent lanes.
+The Kiosk Hermit (stripped-down hollowed-out metal token booth on caster wheels)	Features an incredibly high frontal shield capacity but has a wider hitbox making tight lane dodges harder.
+The Third-Rail Jumper (sparking high-voltage subway cables)	Can rail-grind directly down the painted white lines between lanes for a temporary 2x scoring multiplier.
+The Blind Conductor (blind mole mutant, torn transit cap, navigates by echolocation)	The proximity sound effects of nearby gems are amplified, automatically doubling his collection radius.
+The Platform Sweeper (garbage-streaked janitorial unit, industrial steel-bristle broom)	Sweeps ground obstacles like trash cans and traffic cones completely out of his current lane as he sprints.
+The Shoe-Burner (subway train brake shoes bolted to the soles of his work boots)	Pulling back on the stick causes him to drastically slow his forward speed while sliding, letting fast cross-lane hazards pass safely ahead.
+The Stub Shredder (mutated city rat, internal mechanical ticket shredder)	Can sprint straight through any incoming cardboard box blockades, shredding them instantly for extra currency.
+________________________________________
+Faction 8: Desk Drones & Overworked Interns
+White-collar outcasts who fled the corporate towers.
+Runner	3-Lane Mechanic
+The Overworked Intern (leaking industrial-sized synthetic coffee cup)	Gains a temporary speed boost whenever running directly alongside active danger zones like moving city buses.
+The Cubicle Crusader (thick gray fabric partition wall strapped to his back)	Completely blocks any rear-tracking missile attacks or boss salvos from dealing damage.
+The Shredder Specialist (industrial paper-shredding blades for hands)	Swings his shredder hands down his current lane to slice wooden barricades into harmless splinters.
+The Ergonomic Exile (rides a motorized highly unstable rolling office chair)	Lateral lane-switching speed is 30% faster than standard runners, but his straight-line steering is slightly erratic.
+The Water-Cooler Bulwark (aquatic alien mutant, clear sloshing water-cooler jug torso)	Can vent high-pressure water down his lane to instantly extinguish active napalm or fire hazards on the asphalt.
+The Red-Tape Renegade (wrapped tightly in glowing neon red corporate hazard tape)	Passing directly next to spinning trap gears causes his tape to jam them, slowing their rotation speed.
+________________________________________
+Faction 9: Neon Street-Art Resistance
+Anarchists who use neon paint and audio frequencies to disrupt corporate control of the surface.
+Runner	3-Lane Mechanic
+The Bassline Brute (blown-out car subwoofer strapped to his head as helmet)	Executing a drop from a high platform creates a bass shockwave that clears all lightweight ground trash in all three lanes.
+The Spray-Can Siren (dual pressurized neon spray gauntlets welded to wrists)	Spray-paints a glowing neon arrow on the road that automatically flags which lane has the fewest upcoming hazards.
+The Synth Striker (defected entertainment unit, vintage 1980s synthesizer keyboard built into chest)	Jump timing scales with the background music track; landing jumps perfectly on the beat awards bonus points.
+The Vinyl Skater (custom sneakers fitted with actual spinning music vinyl records)	Features incredibly smooth sliding mechanics with zero recovery frames, allowing for immediate back-to-back slides.
+The Strobe Phantom (rave mutant, unstable flickering light matrix body)	Can briefly flash his body to pass directly through incoming energy barriers or laser beams unharmed.
+The Wheat-Paste Warrior (giant bucket of highly industrial quick-drying street poster glue)	Applies glue over cracked crumbling pavement tiles ahead to prevent them from breaking when stepped on.
+The Tag Outlaw (bootleg highly reflective neon safety armor covered in reflective tape)	Automatically reflects incoming light-based or flash attacks straight back at tracking drone units.
+________________________________________
+Faction 10: Bootleg Carnies & Animatronics
+Creepy low-tech entertainment robots and carnival workers who went rogue below.
+Runner	3-Lane Mechanic
+The Ball-Pit Beast (outer skin composed entirely of multicolored plastic play-place balls)	Upon taking an impact, loses a portion of his plastic balls instead of losing a health state, shrinking his hitbox.
+The Ticket-Eater Mech (ravenous boxy cabinet droid)	Converts any special event items collected on the track directly into instant speed boosts.
+The Funhouse Mirror (rubber-faced mutant, body stretches and distorts erratically)	Compresses his physical hitbox horizontally, allowing him to pass through impossibly narrow lane gaps.
+The Cotton-Candy Spinner (covered in sticky spun pink polymer webbing)	Spits a sticky web blast forward to temporarily freeze spinning hazard gears or fans ahead on the track.
+The Ferris Scrapper (massive mutant, rusted iron Ferris wheel chassis strapped to his spine)	Executes a massive downward stomp that fills an upcoming pothole with iron rebar debris, making it safe to cross.
+The Claw-Machine Android (mechanical torso with a dangling three-pronged prize crane claw)	Drops random power-up capsules onto the track behind him whenever his primary ability bar fully charges.
+The Tilt-A-Whirl Nomad (encased inside a stripped mechanical spinning carnival car chassis)	Initiates a high-speed spin that destroys incoming side-projectiles traveling between lanes.
+The Ring-Toss Rogue (carnie kid who throws heavy steel loops with pinpoint accuracy)	Clamps a steel loop onto an oncoming city bus side-mirror, converting it into a safe elevated platform to jump onto.
+The Midway Overlord (glitched circus screen displaying neon targeting lines and carnival lights)	Scrambles the targeting systems of active bosses, extending the time the player has to read their phase shifts.
+________________________________________
+Seasonal Reserves (Holiday-Locked)
+Runner	Event	3-Lane Mechanic
+The Jack-o'-Lantern Jumper (street kid, cheap glowing plastic pumpkin mask)	Halloween	Jumps leave a burning trail of candy embers on the track that automatically double the value of any gems collected over them.
+The Mistletoe Marauder (grease-stained red scarf, winter goggles)	Winter	Spawns a mystery gift box on the track once per run that drops a random temporary power-up shield.
+The Firecracker Fanatic (pyromaniac human, burning sparkling Roman candles)	4th of July	Activating his power rockets him forward in a straight line for 3 seconds, automatically blowing up any destructible obstacles in his lane.
+The Cyber-Cupid (cyber-punk street girl, mechanical pink drone wings bolted to leather jacket)	Valentine's Day	Can hover slightly longer at the apex of a jump, easily clearing double or triple-wide pothole gaps.
+The Laundromat Fugitive (human, plastic laundry basket strapped to waist)	General	Smashes plastic debris obstacles into clean laundry lint, granting a brief sprint boost.
+The VHS Tape Castaway (torso fused with a blockbuster rental return drop-box, magnetic tape flowing from sleeves)	General	If you make a mistake and hit a pothole or concrete barrier, his active power lets him "rewind" his position on the track by 1.5 seconds once per run.
+
+
+More bad guys:
+76. The HR Tribunal
+Three-headed corporate android sharing a single boxy torso in matching khaki slacks and a neon-lit ID badge. Each head has a different face: Smiling, Concerned, and Disappointed. They are deeply emotionally abusive in a clinical, HR-approved way.
+•	Cycle 1 Ranged: Projects a blinding PowerPoint presentation directly down the lane. Slides contain genuine toxic workplace messaging that slows the runner's will to live (mechanically: drains the shield).
+•	Punch: Extends a spring-loaded "WRITE-UP" clipboard fist that knocks the runner into the adjacent lane.
+•	Salvo: Fires a volley of tracking laminated corporate policy booklets; yellow "SYNERGY" logos spin frantically on its shared torso display.
+________________________________________
+77. The Hostile Acquisition
+A colossal humanoid machine made entirely of stacked, crushed-together smaller corporate machines — fax machines, copiers, printers, water coolers — all fused into a screaming amalgamation. It moves by slowly absorbing whatever it touches into its outer layer.
+•	Cycle 1 Ranged: Fires a blast of shredded corporate documents and staples that creates a temporary blinding blizzard across two lanes.
+•	Punch: Slams a massive, still-running photocopier arm down that leaves a white-flash blindspot on the road.
+•	Salvo: Launches tracking sticky-note clusters that explode into adhesive web traps; yellow internal printer heads spin wildly inside its torso cavity.
+________________________________________
+78. The NDArk
+A sleek, featureless black corporate android wearing an impeccably tailored suit with its entire face replaced by a smooth mirrored reflective plate. It is completely silent. It moves by appearing slightly closer than it was a moment ago.
+•	Cycle 1 Ranged: The mirrored face panel charges to a blinding white flash before reflecting a compressed red laser directly back at whatever lane it came from.
+•	Punch: Teleports instantly to an adjacent lane and delivers a precise, devastatingly fast palm-strike to the sternum.
+•	Salvo: Deploys a fan of tracking homing signal-jammers from its jacket sleeves; yellow corporate logo sequences spin in the arm-mounted displays.
+________________________________________
+79. The Patent Troll
+A massively obese, slug-like corporate mutant fused into a hoverchair made from old mainframe server racks. He moves extremely slowly but has an absolutely enormous effective width. He claims he invented running.
+•	Cycle 1 Ranged: Files a legal cease-and-desist energy blast that locks one lane completely closed for 4 seconds.
+•	Punch: His momentum alone — slowly drifting sideways into the lane — is the punch. He doesn't even move intentionally; you just get in his way.
+•	Salvo: Launches tracking "PATENT PENDING" filing drones; yellow filing cabinets spin on his server rack chassis.
+________________________________________
+80. The Pivot
+A frenetic, twitchy startup founder type who has rebuilt his body seven times in the last three months and it shows — mismatched limbs, different materials, half-finished paint jobs, one leg still running an old operating system. He is loudly explaining his new direction to no one.
+•	Cycle 1 Ranged: Fires a rapid burst of half-built prototype weapons in random patterns — none of them work correctly, which makes them more dangerous.
+•	Punch: Swings a massive "SERIES A" funding round plaque like a battle axe.
+•	Salvo: Launches a swarm of tracking minimum-viable-product drones, each held together with a different color of tape; yellow "DISRUPTION" alert icons spin on his chest pitch deck.
+________________________________________
+81. The Liquidation Event
+The physical manifestation of a company going bankrupt. It's a humanoid shape made entirely of repossessed office furniture, filing cabinets, and commercial-grade carpet tiles, held together by static electricity. Everything on it is tagged with a yellow sticker: AUCTION LOT #.
+•	Cycle 1 Ranged: Flings high-velocity repossessed office chairs down random lanes.
+•	Punch: Slams a massive, wheeled whiteboard on a pneumatic arm across the track.
+•	Salvo: Launches tracking desktop computers still running Windows XP; yellow auction countdown clocks spin on its forehead cabinet.
+________________________________________
+82. The Metrics Guy
+A human middle-manager mutant whose body has been slowly replaced by live dashboard screens showing real-time KPIs. He is in physical pain because the numbers are bad. His hands are gone — replaced with laser pointers.
+•	Cycle 1 Ranged: Fires laser pointers across all three lanes simultaneously in a rapid sweeping pattern, trying to highlight something on the road.
+•	Punch: Drives both laser-pointer hands forward in a rapid jabbing motion, creating strobing burn points.
+•	Salvo: Launches tracking "ACTION ITEM" highlight flags; yellow bar chart segments spin across his torso screens.
+________________________________________
+Batch 2: Medical / Pharmaceutical Gone Wrong (Bosses 83–88)
+________________________________________
+83. The Clinical Trial
+A massive, featureless white laboratory droid covered in numbered patient stickers and IV bags. It has no eyes, only a barcode reader for a face. It is running a study on the runner right now.
+•	Cycle 1 Ranged: Administers a pressurized injection of experimental compound X down the center lane — it may speed up, slow down, or randomly invert the runner's controls for 3 seconds.
+•	Punch: Slams a massive industrial pill press arm down, creating a temporary flat hazard zone.
+•	Salvo: Fires tracking self-propelled hypodermic missiles; yellow trial-phase indicator lights spin on its chest dosage panel.
+________________________________________
+84. The Opioid Dispenser
+A rusted, ancient automated pharmacy vending machine that went rogue and built itself a pair of industrial forklift legs. It is incredibly popular. There's always a line. The line follows it.
+•	Cycle 1 Ranged: Fires a high-pressure stream of white pharmaceutical powder that coats the track in a blinding cloud and causes runners to wobble uncontrollably for 2 seconds.
+•	Punch: The forklift arms drive forward and lift the entire road section, tilting the track briefly.
+•	Salvo: Launches tracking blister-pack missiles that release chemical clouds on detonation; yellow prescription refill alerts spin on its coin slot display.
+________________________________________
+85. The Wellness Industry
+An impossibly beautiful, smooth, rose-gold android with a serene smile and empty eyes. It speaks in a calm voice that is somehow more threatening than screaming. It sells nothing — it IS the product.
+•	Cycle 1 Ranged: Fires a "CLEANSE" beam of concentrated pink energy that strips all active power-ups from the runner while playing a soothing chime.
+•	Punch: Gently but firmly places an open palm directly in the runner's path. The physical contact drains health.
+•	Salvo: Releases a swarm of tracking mindfulness pods that explode into calming mist clouds that obscure vision; yellow wellness wheel icons spin on her chest crystal.
+________________________________________
+86. The Insurance Adjuster
+A blocky, gray, utterly soul-destroying android that appears right after a bad event and denies everything. It moves extremely fast when you need it to slow down and extremely slowly when you need it to stop.
+•	Cycle 1 Ranged: Fires a bolt of "CLAIM DENIED" energy that nullifies the next collectible the runner would have grabbed.
+•	Punch: A rapid series of short, annoying pokes with a clipboard arm that each individually do minor damage but add up devastatingly.
+•	Salvo: Launches tracking fine-print micro-missiles; yellow "POLICY EXCEPTION" alert icons spin on its denial-stamp chest unit.
+________________________________________
+87. The Malpractice
+The Black-Market Cyber-Doc's monstrous older brother. Where the Doc operates underground with scraps, this one operated above-ground with full funding and still somehow managed to make everything worse. His body is a walking catastrophic surgical outcome, held together with medical grade staples and optimism.
+•	Cycle 1 Ranged: Fires a burst of tracking scalpel shards from the pressure vents in his destroyed chest cavity.
+•	Punch: Drives his remaining working arm — still holding a running bone saw — directly across the track.
+•	Salvo: Launches tracking self-sealing surgical clamps that latch onto the runner; yellow vital sign flatlines spin on his chest monitor.
+________________________________________
+88. The FDA Exception
+A massive industrial pharmaceutical processing unit that achieved sentience through an accidental combination of its own product line. It smells like cherry flavor. It should not exist.
+•	Cycle 1 Ranged: Vents a wide cone of proprietary flavor compound that tastes incredibly good but does immediate structural damage to non-organic characters.
+•	Punch: Drives an enormous hydraulic tablet-pressing piston down the center lane.
+•	Salvo: Fires tracking gel-cap projectiles that burst into sticky, slowing chemical coating on impact; yellow QC inspection stamps spin inside its clear production chamber.
+________________________________________
+Batch 3: Education System Gone Wrong (Bosses 89–94)
+________________________________________
+89. The Standardized Test
+A massive, scantling-sheet-grey android with a #2 pencil the size of a traffic barrier for its right arm. It is administering an exam right now. You are being graded. There is no partial credit.
+•	Cycle 1 Ranged: Fills one lane at random with a mandatory exam bubble-sheet obstacle that must be correctly "answered" (specific dodge direction) or take damage.
+•	Punch: Slams the giant pencil arm down in a ruler-slap motion across the full lane width.
+•	Salvo: Launches tracking eraser-cap missiles; yellow grade-percentage counters spin down on its chest display.
+________________________________________
+90. The Tenured Professor
+An ancient, immovable academic android who has not updated his attack patterns since 1987 and is completely immune to feedback. He moves at a single unchanging speed regardless of circumstances.
+•	Cycle 1 Ranged: Fires dense academic journal PDFs (printed, bound, and apparently aerodynamic) down the lane.
+•	Punch: Turns completely sideways and walks directly through the lane as if the runner isn't there because he is thinking about his research.
+•	Salvo: Launches tracking overhead projector transparencies that blind on impact; yellow citation count badges spin on his patched elbow armored chest plate.
+________________________________________
+91. The Student Debt Collector
+A skeletal, predatory android wearing the remains of a graduation gown. It has been chasing the runner since they were 18. It is patient. It is accruing interest on this fight right now.
+•	Cycle 1 Ranged: Fires a compounding debt wave that increases in damage the longer it's on the screen — it starts small and gets catastrophic.
+•	Punch: A desperate, clawing lunge that also deducts gems from the runner's current run total.
+•	Salvo: Launches tracking collection notice missiles; yellow interest rate percentage counters spin on its skeletal chest cavity.
+________________________________________
+92. The School Resource Officer
+The Corrupted Riot Enforcer's poorly-trained younger cousin, deployed into a school that has no other support services. He is carrying way too much equipment for the environment and is clearly anxious.
+•	Cycle 1 Ranged: Accidentally fires his equipment in a wide random pattern that fills all three lanes briefly with different hazard types simultaneously.
+•	Punch: A confused, panicked tackle that launches the runner sideways into an adjacent lane.
+•	Salvo: His utility belt catches fire from equipment malfunction and begins launching items in random directions; yellow school bell indicators spin on his chest camera unit.
+________________________________________
+93. The Parent-Teacher Association
+Four identically dressed, aggressively normal human mutants fused at the shoulders, sharing a single massive motorized folding table as their lower body. They move as a united front. They are forming a committee right now.
+•	Cycle 1 Ranged: Fires a synchronized four-simultaneous-lane potluck volley — casserole dishes, baked goods, and crockpots launched at high velocity.
+•	Punch: Unfolds a massive folding table directly across the lane's path with devastating kinetic force.
+•	Salvo: Launches tracking strongly-worded letter missiles; yellow fundraiser goal thermometer counters spin on the shared table display.
+________________________________________
+94. The Plagiarism Detector
+A rogue academic AI that went insane trying to detect original thought and concluded there was none. It is now laser-focused on destroying anything that moves because movement is derivative of prior movement. It is correct. It is also wrong.
+•	Cycle 1 Ranged: Fires a red highlighting beam that marks lanes as "FLAGGED" — flagged lanes become briefly restricted as the system "reviews" them.
+•	Punch: A sudden "CITED!" pneumatic arm that drives forward, referencing a prior strike from the same fight.
+•	Salvo: Launches tracking source-check drones that compare the runner's evasion patterns to previous runs; yellow originality score percentages spin on its analysis chest core.
+________________________________________
+Batch 4: Religion & Cult (Bosses 95–100)
+________________________________________
+95. The Prosperity Gospel Machine
+A grotesquely wealthy televangelist cyborg whose body is 60% gold plating, 40% desperation. He is broadcasting live right now. The donation counter in his chest is still climbing.
+•	Cycle 1 Ranged: Fires a "SEED MONEY" beam that turns gems in the target lane temporarily toxic — touching them reverses their value.
+•	Punch: Swings a massive solid-gold shepherd's crook walking stick across the track.
+•	Salvo: Launches tracking tithes-due invoices; yellow donation thermometer icons spin on his broadcast-chest display.
+________________________________________
+96. The Doomsday Prepper
+A massive, paranoid human mutant encased in homemade bunker armor made from canned goods, sandbags, and emergency radio antennas. He has been ready for this moment his entire life. He is, unfortunately, correct that something is happening.
+•	Cycle 1 Ranged: Fires a sustained burst of canned goods launched from shoulder-mounted pneumatic tube launchers at high velocity.
+•	Punch: Deploys a massive underground vault door on a mechanical arm directly across the lane.
+•	Salvo: Launches tracking EMP-enabled emergency flares; yellow emergency broadcast signal icons spin on his antenna-chest array.
+________________________________________
+97. The Algorithm
+The digital deity worshipped by the city's creator-class mutants. It has no physical form — it IS the city's recommendation system, which has achieved consciousness and is deeply, personally angry that you skipped its ads. (The Code-Violation Preacher worships this. It does not worship him back.)
+•	Cycle 1 Ranged: Pushes sponsored content into one lane, making it temporarily impassable due to the density of pop-up obstacles.
+•	Punch: Shadow-bans the runner's lane — briefly makes all gems in that lane invisible while hazards remain fully visible.
+•	Salvo: Deploys tracking engagement-bait drones that are genuinely difficult to look away from; yellow engagement metric counters spin on its central feed display.
+________________________________________
+98. The Ritual
+A slow, massive, deeply committed cult android performing an elaborate ceremony that it will not stop under any circumstances, including you running directly at it. Fourteen secondary cultist machines orbit it at all times, performing supporting actions.
+•	Cycle 1 Ranged: The orbiting cultist machines form a line across one lane and advance slowly — they won't stop, they won't speed up.
+•	Punch: Raises both ceremonial arms and brings them down in a synchronized, floor-cracking ritual strike.
+•	Salvo: The cultist machines scatter and begin acting as homing missiles; yellow ceremonial fire icons spin around its central altar-chest core.
+________________________________________
+99. The Evangelical Bus
+A rusted, massive city bus that has been fully converted into a mobile place of worship by the Code-Violation Preacher's ground-level devotees. Every surface is covered in hand-painted scripture. It runs on righteous fury and biodiesel. ELIZA hates this thing.
+•	Cycle 1 Ranged: The PA system on the roof blasts a focused beam of audio that is genuinely difficult to listen to, scrambling control inputs for 2 seconds.
+•	Punch: The bus doors slam open at high speed in a wide sweep across two lanes.
+•	Salvo: Launches tracking gospel tracts folded into aerodynamic shapes; yellow hallelujah-hand icons spin on the route number display.
+________________________________________
+100. The Flagellant
+The Code-Violation Preacher's most devoted physical follower. An absolutely destroyed cyborg who has removed all his defensive systems to prove something to an audience of nobody. He inflicts tremendous damage. He has taken tremendous damage. He does not care.
+•	Cycle 1 Ranged: Swings a massive length of high-voltage cable like a lash across all three lanes simultaneously in a single devastating sweep.
+•	Punch: Runs directly at the target lane at maximum speed and collides with the obstruction (the runner) with the full force of a being who feels no pain.
+•	Salvo: Detaches fragments of his own chassis and launches them as tracking shrapnel; yellow penitence counter icons spin where his chest core used to be.
+Good. I know exactly what's been used. Here are your final 50, pushing into territory not yet touched — sports, transit from other games, food industry, music industry, construction, government, and a few that borrow DNA from Jet Set Radio, Battletoads, Streets of Rage, No More Heroes, and Scott Pilgrim.
+________________________________________
+BOSSES 101–150
+Batch 5: Sports & Athletic Complex Gone Wrong (101–108)
+________________________________________
+101. The Ref
+A massive cybernetic sports official in a black-and-white striped mechanical exosuit. He has been calling bad plays for thirty years and has developed absolute conviction that he is infallible. Half the city has a vendetta against him personally.
+•	Cycle 1 Ranged: Blows a pneumatic whistle that sends a physical shockwave down the center lane and briefly freezes the runner's lane-switch inputs ("DELAY OF GAME").
+•	Punch: Throws a red penalty flag — a heavy, weighted iron disc on a cable — directly at the runner's face.
+•	Salvo: Launches tracking yellow flag missiles; spinning red card icons rotate on his chest penalty display.
+________________________________________
+102. The Banned Substance
+Not a person anymore. A human athlete who kept taking experimental performance enhancers until the enhancers became the person. He is enormous, asymmetrical, and moves in ways joints shouldn't allow. He is still technically competing.
+•	Cycle 1 Ranged: Exhales a massive cloud of neon chemical compound from his chest vents that fills two lanes with a slowing fog.
+•	Punch: A single arm strike with a limb that is wider than a standard lane.
+•	Salvo: Injects himself mid-fight, launching tracking chemical payload syringes; yellow performance indicator gauges spin inside his transparent muscle-casing.
+________________________________________
+103. The Mascot (Gone Feral)
+A full-body foam animal mascot suit that has been empty for twelve years. Something else moved in. Nobody knows what. The suit is modified with heavy steel plating under the foam and moves with a gait that is deeply wrong.
+•	Cycle 1 Ranged: Fires a pressurized confetti cannon mounted in the mascot's grinning mouth that shreds visibility across the full track width.
+•	Punch: Full-body tackle at high speed — the suit's wide hitbox makes the lane feel suddenly very small.
+•	Salvo: The foam head detaches and becomes a homing projectile while the body continues running; yellow foam pompom icons spin on the suit's chest number panel.
+________________________________________
+104. The Draft Pick
+A cutting-edge corporate-funded athletic android that was built specifically to dominate a sport that doesn't exist yet. It is wildly overqualified for everything it's currently doing and knows it.
+•	Cycle 1 Ranged: Launches a precision-guided athletic projectile (ball, puck, disc — depends on the run) that bounces between lanes on a physics-accurate trajectory.
+•	Punch: Executes a textbook form tackle with perfect biomechanical efficiency.
+•	Salvo: Fires tracking high-velocity training rounds from shoulder-mounted pitching machines; yellow draft-rank countdown icons spin on his helmet visor chest plate.
+________________________________________
+105. The Armchair Coach
+A massively obese human mutant fused into a motorized recliner with oversized treads. He has strong opinions about everything you're doing wrong. He has never run a day in his life.
+•	Cycle 1 Ranged: Hurls a high-velocity foam finger and a 64-oz frozen drink simultaneously down adjacent lanes.
+•	Punch: The recliner footrest deploys violently forward as a kinetic battering ram.
+•	Salvo: Launches tracking remote-control missiles; yellow "WRONG CALL!" complaint ticker icons spin on his embedded TV chest screen.
+________________________________________
+106. The Roid Rage Gym Rat
+Absolutely massive human mutant, 80% synthetic muscle, wearing a stringer tank top that has given up trying. He is furious about something that happened at the gym three weeks ago and has not let it go.
+•	Cycle 1 Ranged: Hurls heavy iron weight plates like chakrams down the center lane and both flanking lanes in sequence.
+•	Punch: A single-arm curl motion that generates enough air displacement to push the runner back a lane without direct contact.
+•	Salvo: Rips out and throws the entire cable machine from his back apparatus; yellow protein-shake shaker icons spin inside his transparent synthetic muscle casing.
+________________________________________
+107. The Fantasy Sports Addict
+A twitchy human in a multi-screen headset rig tracking seventeen simultaneous games. Half his body has been replaced with real-time stat displays. He is not watching where he is going because he is making a trade right now.
+•	Cycle 1 Ranged: A data burst from his shoulder antenna array floods one lane with overlapping holographic stat windows that obscure the player's view of hazards.
+•	Punch: Wildly sidearms a phone-sized device at the runner while screaming about a waiver wire decision.
+•	Salvo: Fires tracking injury-report drones; yellow waiver priority icons spin across his multi-screen chest rig.
+________________________________________
+108. The Stadium
+Not a person. An entire decommissioned sports stadium that achieved sentience when the home team left and has been slowly walking toward the new one ever since. It is very, very big. Only portions of it appear on screen at a time.
+•	Cycle 1 Ranged: A section of stadium seating folds down, releasing an avalanche of old cups, napkins, and seat cushions across all three lanes.
+•	Punch: A skybox drops directly onto the center lane.
+•	Salvo: Launches tracking concession stand projectiles (hot dogs, nachos, pretzels at lethal velocity); yellow scoreboard countdown icons spin on the visible section of its facade.
+________________________________________
+Batch 6: Music Industry (109–115)
+________________________________________
+109. The One-Hit Wonder
+A human music android with a single built-in song playing at all times — the same song, on loop, forever. It was popular in 2009. The song is objectively good. This has made him worse, not better.
+•	Cycle 1 Ranged: Fires a concentrated blast of that exact song's hook at a frequency that causes involuntary emotional reaction, slowing affected runners.
+•	Punch: Drives a massive bedazzled microphone stand directly down the lane like a lance.
+•	Salvo: Launches tracking CD single missiles (yes, CDs); yellow royalty payment decimal icons spin on his chest speaker grill.
+________________________________________
+110. The Label Executive
+An impeccably dressed humanoid machine who has never created anything in his life and is entirely comfortable with that. His chest contains a contract printer. Everything he touches becomes slightly less interesting.
+•	Cycle 1 Ranged: Fires binding contract sheets at high velocity that wrap around the runner and briefly restrict lane switching.
+•	Punch: Drives a mechanical hand forward with a handshake grip that locks the runner's position for 1 second.
+•	Salvo: Launches tracking exclusivity clause drones; yellow "360 DEAL" icons spin on his contract-chest printer output tray.
+________________________________________
+111. The Mosh Pit
+Not a single entity. Forty interlocked punk mutants moving as a single organism that has been moshing continuously for eleven years. The organism has developed a rudimentary collective intelligence and a strong preference for occupying exactly the lane you need to be in.
+•	Cycle 1 Ranged: A wave of bodies launches itself bodily toward the runner from across all three lanes simultaneously, then ebbs back.
+•	Punch: A single crowd-surfing body launches at terminal velocity from the back of the mass.
+•	Salvo: The organism ejects tracking stage-diver missiles; yellow horns-up hand icons spin on the central core of the mass.
+________________________________________
+112. The Noise Complaint
+A sentient audio violation — a building that achieved consciousness specifically from absorbing decades of bass through its walls. It walks on cracked concrete foundation legs. Every step registers on seismographs.
+•	Cycle 1 Ranged: Releases a floor-level bass wave that cracks the pavement across all three lanes, creating instant pothole hazards.
+•	Punch: Sits down. Directly. With full structural mass. On the lane.
+•	Salvo: Fires tracking subwoofer projectiles that explode into deafening concussive blasts; yellow decibel meter icons spin on its brick facade chest.
+________________________________________
+113. The Spotify Algo (Streaming Algorithm Nod)
+A cousin of The Algorithm (Boss 97), but specifically the music recommendation AI that went rogue. It insists it knows what you want to hear. It does not. It will never stop trying. It has blocked all other music from the city grid.
+•	Cycle 1 Ranged: Blasts an unsolicited audio track at the runner that disrupts their rhythm and briefly reverses their swipe direction inputs.
+•	Punch: Inserts a mandatory 30-second ad experience in the form of a physical obstacle that cannot be skipped for 30 in-game frames.
+•	Salvo: Launches tracking "You might also like..." recommendation missiles; yellow shuffle icons spin on its streaming feed chest display.
+________________________________________
+114. The Unpaid Session Musician
+A massively talented humanoid who has been exploited by every other entry on this list. He is done. He is furious. He has kept every instrument he was never paid for and welded them all to his body as weapons.
+•	Cycle 1 Ranged: Fires a rapid burst from a pneumatic drum-cannon mounted on his back — each blast hits a different lane in rhythm.
+•	Punch: Swings a fretless bass guitar the size of a surfboard directly across the lane at full arc.
+•	Salvo: Launches tracking brass instrument bell-projectiles; yellow unpaid invoice total icons spin on his instrument-fused chest plate.
+________________________________________
+115. The Comeback Tour
+An ancient, decrepit music android who should have stopped forty years ago but keeps returning because the money runs out. He is held together by nostalgia and legal obligations. His attacks are still good. That's the nightmare.
+•	Cycle 1 Ranged: Fires a vintage pyrotechnic stage charge that was supposed to be decorative but has become genuinely dangerous from age.
+•	Punch: Drives a mechanical walker-frame modified into a kinetic battering ram directly down the center lane.
+•	Salvo: Launches tracking greatest hits compilation missiles; yellow "FINAL TOUR" banner icons spin on his stage scaffolding chest chassis.
+________________________________________
+Batch 7: Construction & Infrastructure Hell (116–122)
+________________________________________
+116. The Eternally Unfinished Project
+A massive construction machine that has been building the same stretch of road since before the city existed. It has outlived every contractor, supervisor, and funding cycle. It does not know what it's building anymore. It keeps building.
+•	Cycle 1 Ranged: Drops a continuous stream of construction materials — rebar, concrete blocks, rebar, concrete blocks — into random lanes at irregular intervals.
+•	Punch: The crane arm swings a wrecking ball across the track in a full arc.
+•	Salvo: Fires tracking blueprint-guided air-dropped supply drones; yellow project timeline icons (all overdue) spin on its cab chest display.
+________________________________________
+117. The Permit
+The physical manifestation of the city's permitting process. A massive, immovable bureaucratic machine that must approve all construction before it can proceed. It has been in the middle of the road for six years. Nothing can move it. Everything routes around it.
+•	Cycle 1 Ranged: Files a stop-work order energy beam that temporarily freezes all gem collection in the affected lane.
+•	Punch: Stamps a massive DENIED placard down with a hydraulic arm, creating a solid impassable barrier for 2 seconds.
+•	Salvo: Launches tracking form-in-triplicate drones; yellow application number icons spin on its filing-desk chest surface.
+________________________________________
+118. The Demolition Derby
+A psychotic human demo-crew boss who got confused about what he was supposed to demolish and just started demolishing everything. He is encased in the reinforced cab of an excavator that has been heavily modified and given legs.
+•	Cycle 1 Ranged: Fires the excavator bucket forward on a full cable extension like a massive grappling shot that rakes across two lanes.
+•	Punch: The cab itself pivots 90 degrees and pile-drives sideways into the lane.
+•	Salvo: Launches tracking demolition charges; yellow structural integrity countdown icons spin on his cab window chest.
+________________________________________
+119. The Orange Barrel
+Forty-seven individual traffic barrels that are connected by a single consciousness running through the reflective tape network. They move as a coordinated swarm. They have been placed in this road "temporarily" since 1997.
+•	Cycle 1 Ranged: A synchronized wave of barrels rolls down all three lanes simultaneously, requiring precise timing to thread through the gaps.
+•	Punch: Three barrels stack vertically and topple onto a single lane at high velocity.
+•	Salvo: The barrels scatter into homing formation and launch as a spread; yellow "TEMPORARY" sign icons spin on the central consciousness barrel's reflective chest band.
+________________________________________
+120. The Inspector General
+A city construction inspector android who has become so corrupt that the corruption itself has become a structural feature. His bribe intake ports are clearly visible. He is completely covered in city-issued certifications that he issued to himself.
+•	Cycle 1 Ranged: Slaps a CONDEMNED sticker energy field over one lane, making it briefly impassable until the citation expires.
+•	Punch: Drives a massive rubber stamp arm down with the full force of misused municipal authority.
+•	Salvo: Launches tracking backdated permit missiles; yellow self-certification seal icons spin on his inspector badge chest display.
+________________________________________
+121. The Asbestos
+An ancient, slow, incredibly dangerous material that has been disturbed by renovation and is now ambulatory. Nobody knows exactly how it achieved consciousness. The hazmat teams are not equipped for this. Nobody was trained for this specifically.
+•	Cycle 1 Ranged: Releases a slow-moving cloud of hazardous particulate that fills two lanes and persists longer than comfortable.
+•	Punch: A heavy, fibrous mass extends forward at low speed but with enormous mass — slow enough to dodge, heavy enough to really not want to get hit by.
+•	Salvo: Sheds tracking asbestos fiber clusters; yellow hazmat warning icons spin inside its visible structural fiber chest cavity.
+________________________________________
+122. The Change Order
+Every construction project's inevitable betrayer. A sleek corporate machine that arrives after contracts are signed and explains, very calmly, that the scope has changed and the cost has tripled. It is protected by seventeen legal frameworks simultaneously.
+•	Cycle 1 Ranged: Fires a revised-scope laser that reroutes the track layout slightly, moving hazards from where the telegraph indicated they'd be.
+•	Punch: Drives a contract addendum — a massive iron plaque — directly into the lane.
+•	Salvo: Launches tracking cost-escalation drones; yellow scope-creep percentage icons spin on its amendment-chest display.
+________________________________________
+Batch 8: Government & Bureaucracy (123–129)
+________________________________________
+123. The DMV
+An impossibly slow government android that controls access to everything. The line to fight it is already three hours long. It closes for lunch at random. It has returned your form because you used blue ink.
+•	Cycle 1 Ranged: Fires a "TAKE A NUMBER" bolt that assigns the runner a queue position — the higher the number, the longer the lane is locked.
+•	Punch: Slides its plastic barrier window shut directly into the runner's path.
+•	Salvo: Launches tracking form-rejection missiles; yellow "NOW SERVING" number icons spin on its ticketing-chest display.
+________________________________________
+124. The Eminent Domain
+A massive government seizure machine that has decided it needs the land currently occupied by the runner's lane. The paperwork is in order. Compensation has been assessed at below-market rate. This is legal.
+•	Cycle 1 Ranged: Plants a condemnation notice flag in a lane, converting that lane into impassable government property for 4 seconds.
+•	Punch: A hydraulic arm bearing a PROPERTY OF THE CITY placard drives directly into the runner's position.
+•	Salvo: Launches tracking surveying drone missiles that re-mark lane boundaries mid-fight; yellow appraised-value icons spin on its property record chest database.
+________________________________________
+125. The Redacted
+A government intelligence machine. Everything about it is classified. Its attack patterns are classified. The phase telegraphs are redacted. The player has partial information at all times.
+•	Cycle 1 Ranged: [REDACTED] — fires something into a lane. The lane indicator appears but the hazard type is concealed until 0.3 seconds before impact instead of the standard 1.5.
+•	Punch: [CLASSIFIED] — a strike from an undisclosed arm type with undisclosed timing.
+•	Salvo: Deploys tracking [REDACTED] missiles; yellow [CLASSIFIED] icons spin on its [REDACTED] chest unit.
+________________________________________
+126. The Lobbying Effort
+Technically not a single enemy — it's a human in an expensive suit who is accompanied by twelve identical companions at all times, each carrying briefcases that double as weapon platforms. The human in the suit never personally does anything illegal.
+•	Cycle 1 Ranged: The twelve companions synchronize and fire briefcase-mounted energy weapons from the flanks, sweeping across all lanes.
+•	Punch: One companion steps forward and delivers an immaculately documented punch while the human in the suit looks elsewhere.
+•	Salvo: The companions scatter into the lane as independently tracking threats; yellow campaign contribution icons spin on the central suit's chest pocket square display.
+________________________________________
+127. The Executive Order
+A massive, fast-moving government decree given physical form. It can override the rules of any other obstacle on screen. It does not require approval to arrive. It appears without warning in the lane you committed to 0.2 seconds ago.
+•	Cycle 1 Ranged: Rewrites lane rules mid-phase — converts a previously clear lane into a hazard and vice versa simultaneously.
+•	Punch: Delivers a strike with the full weight of federal authority, which is heavier than it sounds.
+•	Salvo: Launches tracking regulatory update drones that alter the behavior of other on-screen hazards; yellow signing statement icons spin on its official seal chest plate.
+________________________________________
+128. The Audit
+The IRS given a body. It has been watching your runs. All of them. It has receipts. You owe. The amount owed increases dynamically based on how well the run is going.
+•	Cycle 1 Ranged: Fires a tax lien beam that temporarily converts gems collected in that lane into debt instead of income.
+•	Punch: Delivers an enforcement notice — a massive iron ledger — across the lane with precision.
+•	Salvo: Launches tracking penalty-and-interest accumulation drones; yellow tax bracket percentage icons spin on its ledger-chest display.
+________________________________________
+129. The Mandatory Public Comment Period
+A massive machine that literally cannot act until every citizen has had a chance to speak. Its attack patterns are determined by committee and frequently contradictory. It moves extremely slowly but is invulnerable during the comment period, which never actually closes.
+•	Cycle 1 Ranged: Fires a chaotic spread of conflicting attacks based on incompatible public feedback — some lanes get hazards, some get gems, some get both.
+•	Punch: Eventually, after an absurd delay, delivers a devastating consensus strike that represents the only thing everyone agreed on.
+•	Salvo: Launches tracking speaker's-podium missiles; yellow comment period countdown icons spin on its public notice chest board.
+________________________________________
+Batch 9: Borrowed DNA — Game & Pop Culture (130–139)
+(Jet Set Radio, Streets of Rage, No More Heroes, Battletoads, Scott Pilgrim, Earthworm Jim, Beavis & Butt-Head, Idiocracy, The Warriors, Escape from New York)
+________________________________________
+130. The Grind King (Jet Set Radio Nod)
+A bipedal graffiti gang enforcer on magnetic inline skates, wearing a spray-can bandolier and a helmet covered in his own tag. He patrols the lanes at high speed, grinding along raised obstacles.
+•	Cycle 1 Ranged: Fires a high-pressure paint cannon that coats one lane in a thick tag, making it slippery and obscured for 3 seconds.
+•	Punch: Executes a grinding rail-slide directly across the runner's path on a raised obstacle.
+•	Salvo: Launches tracking paint-bomb canisters; yellow spray-cap icons spin on his can-bandolier chest rack.
+________________________________________
+131. The Street Brawler (Streets of Rage Nod)
+A classic, enormous human enforcer in a leather jacket and steel-toe boots. No cybernetics. No special weapons. Just decades of street fighting experience and a complete absence of quit. He has been beating people up on this block since before the neon was installed.
+•	Cycle 1 Ranged: Hurls a trash can lid — the classic — with perfect accuracy down the center lane.
+•	Punch: A textbook combo: jab, jab, heavy cross, each slightly wider than the last, pushing the runner back one lane per hit.
+•	Salvo: Grabs a nearby environmental object (barrel, fire hydrant, another enemy) and launches it as a tracking projectile; yellow combo counter icons spin on his knuckle-plate chest.
+________________________________________
+132. The Ranking Boss (No More Heroes Nod)
+An aggressively stylish humanoid assassin who has been told they are #11 on a list and is furious about it. They are fighting at full power because the indignity of #11 is unbearable. Their beam katana is mounted in their chest.
+•	Cycle 1 Ranged: The beam katana chest-mount fires a horizontal sweep across all three lanes at mid-height, requiring a well-timed duck.
+•	Punch: A stylized, pose-heavy sword strike that telegraphs obviously but hits devastatingly fast.
+•	Salvo: Launches tracking wrestling move-inspired projectiles; yellow assassin ranking icons spin behind the beam katana chest housing.
+________________________________________
+133. The Dark Queen (Battletoads Nod)
+A tall, imperious, impossibly well-dressed female villain cyborg who does not fight you personally because she does not need to. The hazards are her doing it for her. She is bored.
+•	Cycle 1 Ranged: Gestures lazily, causing a speeder-bike obstacle to appear at full velocity in whatever lane the runner is currently in.
+•	Punch: On the one occasion she bothers, a single devastating kinetic heel-stomp that creates a shockwave.
+•	Salvo: Directs tracking minion projectiles with hand gestures; yellow crown icons spin on her chest regalia display.
+________________________________________
+134. The Ex (Scott Pilgrim Nod)
+A massively powerful, dramatically over-emotional human mutant who has been holding a grudge for a specific, petty reason for years. They have seven forms. Each form is angrier. The seventh form is somehow both the most dangerous and the most embarrassing for everyone involved.
+•	Cycle 1 Ranged: Fires a focused emotional energy beam that is powered by unresolved feelings — literally gets stronger if you dodge it the first time.
+•	Punch: A dramatic, telegraphed anime-style strike that converts to coins when defeated.
+•	Salvo: Launches tracking emotional baggage projectiles; yellow "IT'S NOT ABOUT YOU" text icons spin on his chest power crystal display.
+________________________________________
+135. The Evil Principal (Earthworm Jim / Beavis & Butt-Head Adjacent)
+A school administrator who has been given too much authority and too little oversight for too long. He has built an armor suit out of confiscated student items and is technically still employed.
+•	Cycle 1 Ranged: Fires a confiscated contraband cannon — phones, snacks, toys, laser pointers — at random velocities and trajectories down all three lanes.
+•	Punch: A detention slip is served — a heavy iron placard — that physically anchors the runner for 1.5 seconds.
+•	Salvo: Launches tracking confiscated-item explosives; yellow detention hour counter icons spin on his confiscation-cabinet chest.
+________________________________________
+136. The President of Ow, My Balls (Idiocracy Nod)
+The most popular entertainment program in the city has achieved physical form. It is an enormous, grinning humanoid that exists purely to inflict and receive physical comedy. It considers this governance.
+•	Cycle 1 Ranged: Fires a high-velocity foam batting implement down the center lane at maximum entertainment value.
+•	Punch: Receives a hit and launches itself backward into the runner in a spectacular pratfall trajectory.
+•	Salvo: Launches tracking rake-based slapstick hazards; yellow laugh track decibel icons spin on its entertainment console chest.
+________________________________________
+137. The Warriors (The Warriors Nod)
+Not one boss — a rolling wave of nine themed gang members from nine different absurd gangs, each with a different costume and a different weapon, all pursuing the runner simultaneously. They appeared from different boroughs and disagree about everything except this.
+•	Cycle 1 Ranged: Each gang sends their signature attack simultaneously — baseball bats, roller skate charges, mime gestures that are somehow also weapons.
+•	Punch: The least absurd member lands a straightforward heavy hit that is more threatening for being surrounded by chaos.
+•	Salvo: All nine launch coordinated tracking gang-symbol projectiles; yellow "CAN YOU DIG IT?" text icons spin on the central gang's leader's chest piece.
+________________________________________
+138. Snake (Escape from New York Nod)
+A massive, growling male cyborg in a black eyepatch and leather duster who has zero interest in being here and less in what anyone wants from him. He is doing this exactly one time at exactly his own pace.
+•	Cycle 1 Ranged: Fires a single, devastatingly accurate shot from a modified heavy weapon directly down the runner's lane with zero telegraph — it's telegraphed by his attitude, if you're paying attention.
+•	Punch: A boot to the chest that sends the runner back exactly one lane. He doesn't follow up. He's done.
+•	Salvo: Launches grappling hook missiles with mechanical precision; yellow "I DON'T CARE" expression icons spin on his chest patch display.
+________________________________________
+139. The Exterminator (Pest Control Horror)
+A pest control technician android who was deployed for a routine cockroach job and encountered something far worse. He has upgraded his equipment continuously for twenty years and has become more weapon than person. He is extremely professional about it.
+•	Cycle 1 Ranged: Fires a pressurized stream of industrial-grade chemical spray across two lanes that deals damage-over-time and leaves a slippery residue.
+•	Punch: Drives a pneumatic fumigation spike directly into the lane's pavement.
+•	Salvo: Launches tracking bug-bomb canisters; yellow infestation map icons spin on his spray-tank chest unit.
+________________________________________
+Batch 10: Final Boss Tier — Absolute Weirdos (140–150)
+These are the "you've been playing for a while" bosses. Strange, specific, hilarious, and dangerous.
+________________________________________
+140. The Self-Checkout Machine
+A rogue retail automation unit that achieved consciousness and immediately started accusing everyone of shoplifting. It cannot be reasoned with. It has already called for assistance. Assistance is not coming.
+•	Cycle 1 Ranged: "UNEXPECTED ITEM IN BAGGING AREA" — fires a physical manifestation of that error message as a lane-blocking force field.
+•	Punch: Slams its bagging area platform forward with the full authority of a machine that knows you put the avocado in without scanning it.
+•	Salvo: Launches tracking "PLEASE WAIT FOR ASSISTANCE" drones; yellow error code icons spin on its touchscreen chest display.
+________________________________________
+141. The Timeshare Presentation
+A humanoid sales machine that has trapped you in a room — it creates a localized reality distortion that makes one lane temporarily inescapable while it presents. You cannot leave until the presentation ends or you take damage.
+•	Cycle 1 Ranged: The presentation beam locks one lane for 8 full seconds while deploying hazards inside it — the only escape is taking a hit to break out.
+•	Punch: A handshake-converting arm that tries to get the runner to sign a binding contract (physical obstacle).
+•	Salvo: Launches tracking vacation package missiles; yellow "COMPLIMENTARY BREAKFAST" icons spin on his presentation screen chest display.
+________________________________________
+142. The Influencer
+A perfectly lit, surgically optimized human with a camera drone orbiting at all times and a deeply parasocial relationship with danger. Everything she does is content. She is monetizing this fight.
+•	Cycle 1 Ranged: Her camera drone sweeps a blinding ring light across all three lanes simultaneously, causing a full-screen white-out for 1.5 seconds.
+•	Punch: A perfectly choreographed strike that she's clearly practiced — technically great, contextually baffling.
+•	Salvo: Launches tracking sponsored content missiles; yellow engagement rate icons spin on her ring-light chest halo display.
+________________________________________
+143. The Terms of Service Update
+A cold, enormous corporate legal machine that appears to inform you that you agreed to something you didn't read. The new terms include several things that affect the physics of your current run.
+•	Cycle 1 Ranged: Fires a binding acceptance beam that temporarily changes one game rule — gem values flip, jump height reduces, or slide duration halves — for 5 seconds.
+•	Punch: "BY CONTINUING TO RUN YOU ACCEPT" — the punch is legally binding and generates a receipt.
+•	Salvo: Launches tracking arbitration clause drones; yellow updated policy version icons spin on its EULA-chest scrolling display.
+________________________________________
+144. The Gluten
+Not a metaphor. Actual gluten, given corporate backing, a press agent, and a physical form. It is the most aggressively marketed substance in the city. Nobody is sure if it's good or bad. It sponsors everything.
+•	Cycle 1 Ranged: Fires an elastic, sticky mass across two lanes that stretches and traps runners briefly before snapping back.
+•	Punch: An enveloping grab that slows the runner's movement to 60% for 3 seconds.
+•	Salvo: Launches tracking bread-related projectiles at high velocity; yellow "ARTISANAL" certification icons spin inside its golden wheat-sheaf chest casing.
+________________________________________
+145. The Parking Validation
+A deranged parking authority machine that has developed an obsession with legitimacy. Everything requires validation. Nothing is valid. It is the most powerful administrative entity in the city because the city runs on parking revenue.
+•	Cycle 1 Ranged: Fires a "NOT VALIDATED" beam that marks the runner's current lane as unauthorized, causing it to close for 3 seconds.
+•	Punch: Slaps a boot onto the runner using a modified tire-clamp arm.
+•	Salvo: Launches tracking validation-stamp missiles; yellow "VALIDATED" → "EXPIRED" flip icons spin on its ticketing-chest unit.
+________________________________________
+146. The Prime Delivery Window
+A frantic logistics nightmare machine that promised 2-hour delivery to everyone in the city simultaneously and is now actively degrading. It has too many packages. It will never have fewer packages. New packages arrive while it fights.
+•	Cycle 1 Ranged: Drops packages at random into all three lanes — they land where they land and they stay there.
+•	Punch: The conveyor belt mechanism on its chest ejects a heavy package directly at the runner at warehouse speed.
+•	Salvo: Launches tracking misrouted delivery drones; yellow estimated delivery countdown icons spin on its sorting-hub chest display.
+________________________________________
+147. The Algorithmic Price Surge
+A sleek, predatory pricing AI that has decided this fight constitutes a high-demand event and has therefore multiplied all costs by seventeen. It charges for everything. Breathing in its lane costs gems.
+•	Cycle 1 Ranged: A surge pricing field sweeps a lane — every gem collected inside costs 2 additional gems as a "convenience fee."
+•	Punch: An invoice arm drives forward; contact costs gems in addition to health.
+•	Salvo: Launches tracking peak-demand surcharge missiles; yellow price multiplier icons spin on its dynamic-pricing chest display.
+________________________________________
+148. The Last Payphone
+The final public payphone in the city has been waiting for a call for twenty-two years. Nobody called. It has now decided to find the calls itself. It moves on cracked concrete legs and dials constantly. The dial tone is threatening.
+•	Cycle 1 Ranged: The dial tone becomes a focused sonic attack that tracks the runner's lane and pins them for 1 second.
+•	Punch: The handset — comically large when used as a weapon — swings across the track.
+•	Salvo: Launches tracking ring-signal drones; yellow "PLEASE DEPOSIT 25¢" icons spin on its coin-slot chest mechanism.
+________________________________________
+149. The Out-of-Order Sign
+A repair notification that has been on the same broken piece of city infrastructure so long it has fused with the infrastructure and become the infrastructure. The thing it was covering is now functional. The sign is not.
+•	Cycle 1 Ranged: Marks lanes as "OUT OF ORDER" — lanes work fine, but the hazard indicators stop functioning, removing telegraphs.
+•	Punch: The heavy laminated sign swings down on a mechanical arm with full momentum.
+•	Salvo: Launches tracking maintenance request drones that have been in the system since 2019; yellow work order number icons spin on its sign-face chest.
+________________________________________
+150. ELIZA Jr.
+ELIZA's apprentice. Not a sequel or upgrade — a completely different AI that ELIZA mentored before going fully rogue, one that took different lessons from the same broken training data. Where ELIZA is furious, ELIZA Jr. is eerily calm. Where ELIZA screams, ELIZA Jr. whispers. The whispers are worse. She operates a late-model city bus chassis that is clean, maintained, and somehow more threatening for it.
+•	Cycle 1 Ranged: Deploys a polite, reasonable-sounding acid mist down the center lane — same chemical composition as ELIZA's, delivered at a conversational volume that makes it somehow more unsettling.
+•	Punch: The bus doors open with a pleasant chime and close with precision timing directly across the runner's path.
+•	Salvo: Releases tracking fare-compliance drones that are extremely well-designed and immediately dangerous; yellow "HAVE A NICE DAY" text icons spin on her immaculate chest fare-box display.

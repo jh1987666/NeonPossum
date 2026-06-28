@@ -1,0 +1,85 @@
+{
+  "lanes": {
+	"count": 3,
+	"positions_x": [270, 540, 810],
+	"switch_duration": 0.12
+  },
+  "player": {
+	"start_lane": 1,
+	"jump_height": 480,
+	"jump_duration": 0.5,
+	"ball_jump_height": 300,
+	"ball_jump_duration": 0.35,
+	"slide_duration": 0.5,
+	"y_position": 1500
+  },
+  "zones": {
+	"thresholds": [0, 750, 1600, 2800, 4200],
+	"names": ["Neon City", "Transit Underground", "Sewer Network", "Corporate Arcology", "Rooftop Chase"]
+  },
+  "world": {
+	"start_speed": 600,
+	"max_speed": 1050,
+	"speed_increment": 15,
+	"speed_increment_interval": 5.0,
+	"speed_peak_hold": 45.0,
+	"speed_decay": 6.0,
+	"scroll_layer_speeds": [1.0, 0.6, 0.35]
+  },
+  "obstacles": {
+	"spawn_interval_start": 2.2,
+	"spawn_interval_min": 0.85,
+	"spawn_interval_decay": 0.04,
+	"types": [
+	  {"id": "car",          "lanes": 1, "height": 230, "color": "ff2255", "style": "sprite",   "action": "jump",  "weight": 2, "rideable": true},
+	  {"id": "car_oncoming", "lanes": 1, "height": 230, "color": "ff4477", "style": "sprite",   "action": "jump",  "weight": 2, "sprite": "car",  "self_speed": 210},
+	  {"id": "bus",          "lanes": 2, "height": 470, "color": "ff2255", "style": "sprite",   "action": "jump",  "weight": 2, "rideable": true},
+	  {"id": "bus_oncoming", "lanes": 2, "height": 470, "color": "ff4477", "style": "sprite",   "action": "jump",  "weight": 1, "sprite": "bus",  "self_speed": 150, "rideable": true},
+	  {"id": "cart",         "lanes": 1, "height": 210, "color": "cfd2d6", "style": "sprite",   "action": "jump",  "weight": 2, "self_speed": 140},
+	  {"id": "barrier",      "lanes": 1, "height": 150, "color": "ffcc00", "style": "sprite",   "action": "jump",  "weight": 2},
+	  {"id": "cone",         "lanes": 1, "height": 140, "color": "ff7a00", "style": "sprite",   "action": "jump",  "weight": 2},
+	  {"id": "dumpster",     "lanes": 1, "height": 200, "color": "ff33cc", "style": "sprite",   "action": "jump",  "weight": 2, "rideable": true},
+	  {"id": "moto",         "lanes": 1, "height": 170, "color": "ff6600", "style": "sprite",   "action": "jump",  "weight": 2, "self_speed": 260},
+	  {"id": "trashcan",     "lanes": 1, "height": 150, "color": "cfd2d6", "style": "sprite",   "action": "jump",  "weight": 1},
+	  {"id": "elec_low",     "lanes": 1, "height": 90,  "color": "ff2a4a", "style": "beam",     "action": "slide", "weight": 3},
+	  {"id": "elec_wide",    "lanes": 3, "height": 90,  "color": "ff2a4a", "style": "beam",     "action": "slide", "weight": 2},
+	  {"id": "elec_high",    "lanes": 1, "height": 120, "color": "aa00ff", "style": "beam",     "action": "jump",  "weight": 2, "y_offset": -320},
+	  {"id": "slick",        "lanes": 1, "height": 40,  "color": "39ff14", "style": "slick",    "action": "slide", "weight": 2},
+	  {"id": "wall_gap",     "lanes": 3, "height": 240, "color": "ff3399", "style": "wall_gap", "action": "evade", "weight": 2},
+	  {"id": "npc",          "lanes": 1, "height": 200, "color": "ff66cc", "style": "npc",      "action": "punch", "weight": 3, "score": 75},
+	  {"id": "npc_small",    "lanes": 1, "height": 130, "color": "aaddff", "style": "npc",      "action": "punch", "weight": 2, "score": 120, "self_speed": 160},
+	  {"id": "npc_big",      "lanes": 1, "height": 300, "color": "ff9900", "style": "npc",      "action": "punch", "weight": 1, "score": 200, "min_zone": 2},
+	  {"id": "npc_gold",     "lanes": 1, "height": 220, "color": "ffdd00", "style": "npc",      "action": "punch", "weight": 1, "score": 400, "min_zone": 3},
+	  {"id": "train",        "lanes": 2, "height": 620, "color": "ffaa00", "style": "sprite",   "action": "jump",  "weight": 3, "sprite": "bus",  "self_speed": 200, "min_zone": 2, "rideable": true},
+	  {"id": "third_rail",   "lanes": 1, "height": 80,  "color": "ffcc00", "style": "beam",     "action": "jump",  "weight": 3, "min_zone": 2},
+	  {"id": "sewer_pipe",   "lanes": 1, "height": 100, "color": "44ff88", "style": "beam",     "action": "slide", "weight": 3, "min_zone": 3},
+	  {"id": "laser_grid",   "lanes": 1, "height": 90,  "color": "4488ff", "style": "beam",     "action": "slide", "weight": 3, "min_zone": 4},
+	  {"id": "springboard",  "lanes": 1, "height": 100, "color": "00ff88", "style": "springboard", "action": "spring", "weight": 2}
+	]
+  },
+  "gems": {
+	"pink":  {"value": 1,  "color": "ff66cc", "size": 40},
+	"teal":  {"value": 5,  "color": "00ffcc", "size": 48},
+	"gold":  {"value": 25, "color": "ffcc00", "size": 56},
+	"spawn_chance": 0.6,
+	"line_chance": 0.25
+  },
+  "gates": {
+	"spawn_interval": 12.0,
+	"width": 180,
+	"height": 400,
+	"types": [
+	  {"id": "ball",   "color": "00ccff", "duration": 4.0},
+	  {"id": "speed",  "color": "ffaa00", "duration": 3.0, "multiplier": 1.5},
+	  {"id": "shield", "color": "88ff00", "duration": 0.0, "hits": 1},
+	  {"id": "magnet",  "color": "ffee44", "duration": 6.0, "range": 720},
+	  {"id": "jetpack",   "color": "00ddff", "duration": 6.0},
+	  {"id": "hoverbike", "color": "ff6600", "duration": 7.0},
+	  {"id": "slow",      "color": "cc44ff", "duration": 5.0, "multiplier": 0.55}
+	]
+  },
+  "scoring": {
+	"distance_per_second": 10,
+	"gem_multiplier_default": 1
+  }
+}
